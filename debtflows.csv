@@ -1,0 +1,2344 @@
+﻿REP_CTY,from_country,CP_COUNTRY,to_country,weight
+FR,France,DK,Denmark,10452
+KR,South Korea,IN,India,7627.554
+DK,Denmark,QA,Qatar,18
+DK,Denmark,CN,China,2478
+FR,France,HT,Haiti,25
+TR,Turkey,TM,Turkmenistan,16.059
+FR,France,PY,Paraguay,65
+TR,Turkey,NO,Norway,2.399
+PA,Panama,BS,Bahamas,209.142
+US,United States,SA,Saudi Arabia,22875
+DE,Germany,IL,Israel,1577
+GB,United Kingdom,MG,Madagascar,55
+IE,Ireland,IL,Israel,2.843
+IE,Ireland,BR,Brazil,61.981
+GB,United Kingdom,BG,Bulgaria,51
+PT,Portugal,PK,Pakistan,9.092
+US,United States,EE,Estonia,90
+GB,United Kingdom,GG,Guernsey,12107
+JP,Japan,LA,Laos,876.1
+IE,Ireland,PK,Pakistan,1.383
+US,United States,LI,Liechtenstein,137
+JP,Japan,PE,Peru,2187.1
+MX,Mexico,JP,Japan,209.994
+CA,Canada,FI,Finland,2052.693
+FR,France,ZA,South Africa,3921
+TW,Chinese Taipei,PE,Peru,214
+US,United States,AF,Afghanistan,41
+DE,Germany,NL,Netherlands,128662
+TW,Chinese Taipei,CI,Cote d'Ivoire,8
+GB,United Kingdom,SN,Senegal,258
+DK,Denmark,KE,Kenya,6
+CH,Switzerland,PK,Pakistan,1211.178
+CH,Switzerland,BR,Brazil,5234.402
+BE,Belgium,TZ,Tanzania,7
+CH,Switzerland,CZ,Czech Republic,484.898
+CH,Switzerland,PH,Philippines,1200.5
+AT,Austria,TJ,Tajikistan,10.131
+AU,Australia,KP,North Korea,7.325
+BE,Belgium,IM,Isle of Man,13
+AT,Austria,HN,Honduras,79.615
+BR,Brazil,US,United States,22749
+DK,Denmark,BD,Bangladesh,27
+AT,Austria,HR,Croatia,23562.949
+PA,Panama,GB,United Kingdom,1046.41
+SE,Sweden,LK,Sri Lanka,53.385
+KR,South Korea,GB,United Kingdom,5225.943
+ES,Spain,CY,Cyprus,100.207
+TW,Chinese Taipei,WS,Samoa,3373
+CH,Switzerland,GR,Greece,1205.436
+ES,Spain,TW,Chinese Taipei,1798.534
+US,United States,TG,Togo,94
+DK,Denmark,MY,Malaysia,25
+US,United States,RW,Rwanda,5
+ES,Spain,IN,India,1001.121
+FR,France,KW,Kuwait,3631
+FR,France,ZM,Zambia,119
+GB,United Kingdom,KH,Cambodia,11
+SE,Sweden,AO,Angola,63.484
+IT,Italy,1Z,West Indies UK,302.875
+IT,Italy,KH,Cambodia,3.876
+BE,Belgium,NL,Netherlands,30434
+CH,Switzerland,VU,Vanuatu,8.378
+DK,Denmark,CO,Colombia,6
+BE,Belgium,CI,Cote d'Ivoire,202
+NL,Netherlands,AE,United Arab Emirates,3625.295
+US,United States,EC,Ecuador,1257
+AU,Australia,DE,Germany,13776.017
+CH,Switzerland,1Z,West Indies UK,74994.273
+AT,Austria,MY,Malaysia,164.139
+ES,Spain,VE,Venezuela,1032.83
+CH,Switzerland,KG,Kyrgyz Republic,19.464
+GB,United Kingdom,NP,Nepal,880
+US,United States,BR,Brazil,84133
+FI,Finland,EG,Egypt,5
+GB,United Kingdom,BH,Bahrain,8475
+TW,Chinese Taipei,IT,Italy,194
+CH,Switzerland,SZ,Eswatini,35.051
+IT,Italy,LB,Lebanon,45.436
+BR,Brazil,CH,Switzerland,2443
+JP,Japan,BY,Belarus,5.6
+PA,Panama,BR,Brazil,500.806
+IT,Italy,AL,Albania,1456.316
+BE,Belgium,AM,Armenia,23
+JP,Japan,KZ,Kazakhstan,697.4
+TW,Chinese Taipei,CH,Switzerland,721
+JP,Japan,JM,Jamaica,16.8
+JP,Japan,PG,Papua New Guinea,408.4
+JP,Japan,RU,Russia,9907.2
+TW,Chinese Taipei,NG,Nigeria,22
+AT,Austria,LK,Sri Lanka,82.364
+AU,Australia,MX,Mexico,61.27
+GB,United Kingdom,CZ,Czech Republic,3313
+SE,Sweden,BW,Botswana,2.254
+FR,France,MN,Mongolia,736
+CH,Switzerland,SN,Senegal,36.416
+CL,Chile,HK,Hong Kong SAR,3.998
+DK,Denmark,MX,Mexico,188
+FR,France,QA,Qatar,13471
+CH,Switzerland,MG,Madagascar,28.334
+DK,Denmark,GH,Ghana,65
+BE,Belgium,TH,Thailand,46
+AT,Austria,KR,South Korea,385.477
+AU,Australia,MM,Myanmar,117.38
+GB,United Kingdom,TW,Chinese Taipei,56088
+US,United States,IL,Israel,7259
+IT,Italy,PL,Poland,5505.959
+CA,Canada,ZA,South Africa,68.803
+ES,Spain,NO,Norway,8679.438
+AT,Austria,ES,Spain,5971.664
+CL,Chile,DE,Germany,100.349
+SE,Sweden,UY,Uruguay,18.796
+FR,France,GN,Guinea,1206
+BE,Belgium,TW,Chinese Taipei,8
+KR,South Korea,AU,Australia,4935.522
+FR,France,FI,Finland,17586
+IE,Ireland,ES,Spain,3822.025
+AU,Australia,HK,Hong Kong SAR,11965.709
+CL,Chile,JP,Japan,92.647
+IT,Italy,GR,Greece,1398.05
+TW,Chinese Taipei,MM,Myanmar,128
+DE,Germany,FR,France,193977
+SE,Sweden,US,United States,27481.862
+SE,Sweden,TN,Tunisia,5.833
+US,United States,TT,Trinidad and Tobago,984
+KR,South Korea,LU,Luxembourg,1010.104
+ES,Spain,CW,Curacao,157.535
+FR,France,HR,Croatia,796
+IE,Ireland,DK,Denmark,508.989
+US,United States,TH,Thailand,13706
+GB,United Kingdom,GE,Georgia,10
+AT,Austria,IQ,Iraq,1.245
+ES,Spain,BE,Belgium,6964.787
+CA,Canada,KY,Cayman Islands,57002.629
+IT,Italy,BR,Brazil,970.875
+DK,Denmark,TZ,Tanzania,19
+ES,Spain,CM,Cameroon,18.418
+GR,Greece,GG,Guernsey,35
+GB,United Kingdom,IS,Iceland,87
+SE,Sweden,HK,Hong Kong SAR,391.859
+TR,Turkey,KY,Cayman Islands,130.983
+SE,Sweden,BD,Bangladesh,58.892
+FR,France,LR,Liberia,2614
+MX,Mexico,CA,Canada,93.291
+US,United States,AL,Albania,3
+CH,Switzerland,GE,Georgia,127.74
+CH,Switzerland,KZ,Kazakhstan,481.262
+DK,Denmark,TC,Turks and Caicos Islands,3
+IT,Italy,LA,Laos,171.098
+BE,Belgium,ES,Spain,7348
+JP,Japan,BS,Bahamas,1548.8
+US,United States,PT,Portugal,3127
+SE,Sweden,SA,Saudi Arabia,432.787
+DE,Germany,IM,Isle of Man,2316
+FI,Finland,EE,Estonia,1340
+ES,Spain,JP,Japan,12385.855
+US,United States,NL,Netherlands,59716
+TW,Chinese Taipei,HU,Hungary,44
+AU,Australia,CZ,Czech Republic,45.967
+PT,Portugal,KY,Cayman Islands,219.763
+FR,France,BZ,Belize,70
+TW,Chinese Taipei,GH,Ghana,74
+NL,Netherlands,AU,Australia,82922.706
+GB,United Kingdom,PH,Philippines,8424
+CH,Switzerland,VN,Vietnam,1297.164
+AT,Austria,AM,Armenia,72.484
+ES,Spain,IQ,Iraq,2.433
+GR,Greece,VC,St. Vincent and the Grenadines,3
+IT,Italy,SR,Suriname,38.599
+CH,Switzerland,UA,Ukraine,349.314
+SE,Sweden,GB,United Kingdom,52847.772
+ES,Spain,SV,El Salvador,88.487
+CH,Switzerland,AE,United Arab Emirates,15040.668
+SE,Sweden,SN,Senegal,9.696
+CH,Switzerland,KY,Cayman Islands,81194.31
+CH,Switzerland,IQ,Iraq,13.993
+US,United States,FR,France,222895
+BE,Belgium,VE,Venezuela,13
+GB,United Kingdom,AU,Australia,73021
+US,United States,PU,US Pacific Islands,13
+CH,Switzerland,BG,Bulgaria,182.372
+AT,Austria,NO,Norway,1550.016
+AU,Australia,EG,Egypt,1.576
+IT,Italy,ID,Indonesia,639.666
+CL,Chile,MY,Malaysia,25.061
+MX,Mexico,PT,Portugal,33.105
+TR,Turkey,SN,Senegal,248.487
+FR,France,ET,Ethiopia,404
+CA,Canada,MO,Macao SAR,131.891
+GR,Greece,LB,Lebanon,2
+AT,Austria,IN,India,190.266
+GB,United Kingdom,GT,Guatemala,7
+JP,Japan,MA,Morocco,391
+JP,Japan,JO,Jordan,230.9
+NL,Netherlands,BR,Brazil,16534.496
+JP,Japan,NG,Nigeria,848.9
+JP,Japan,RS,Serbia,39.7
+BE,Belgium,JO,Jordan,3
+IT,Italy,GE,Georgia,36.992
+CL,Chile,PA,Panama,308.835
+US,United States,1Z,West Indies UK,50996
+BE,Belgium,ZA,South Africa,50
+IE,Ireland,NL,Netherlands,2122.072
+ES,Spain,BO,Bolivia,124.274
+GB,United Kingdom,GR,Greece,5395
+IT,Italy,BG,Bulgaria,15025.26
+AU,Australia,PA,Panama,428.565
+ES,Spain,MO,Macao SAR,60.948
+GR,Greece,IL,Israel,18
+SE,Sweden,IM,Isle of Man,226.528
+GB,United Kingdom,SC,Seychelles,97
+ES,Spain,LK,Sri Lanka,71.023
+AU,Australia,SA,Saudi Arabia,56.468
+FR,France,CL,Chile,3801
+AT,Austria,PY,Paraguay,4.958
+CH,Switzerland,RS,Serbia,83.959
+KR,South Korea,BR,Brazil,2377.286
+DK,Denmark,LB,Lebanon,3
+PT,Portugal,1Z,West Indies UK,238.714
+DE,Germany,HK,Hong Kong SAR,14960
+IE,Ireland,RO,Romania,1.378
+SE,Sweden,BB,Barbados,1.442
+IE,Ireland,CA,Canada,2166.758
+IE,Ireland,SG,Singapore,261.02
+JP,Japan,AU,Australia,165469.6
+AU,Australia,SI,Slovenia,14.348
+FR,France,PG,Papua New Guinea,386
+TW,Chinese Taipei,GG,Guernsey,92
+FR,France,CV,Cape Verde,62
+FR,France,MY,Malaysia,3825
+FR,France,MO,Macao SAR,258
+PT,Portugal,BG,Bulgaria,24.817
+CA,Canada,NO,Norway,19918.398
+AU,Australia,NL,Netherlands,5314.739
+BR,Brazil,SG,Singapore,139
+BE,Belgium,BM,Bermuda,5
+JP,Japan,LY,Libya,7.3
+IE,Ireland,MX,Mexico,15.091
+BE,Belgium,MA,Morocco,31
+TW,Chinese Taipei,FI,Finland,153
+GB,United Kingdom,PK,Pakistan,5027
+ES,Spain,KE,Kenya,75.816
+KR,South Korea,BS,Bahamas,4.001
+AT,Austria,AL,Albania,2135.873
+TR,Turkey,UZ,Uzbekistan,95.354
+CH,Switzerland,BF,Burkina Faso,1.213
+CL,Chile,PE,Peru,441.481
+GB,United Kingdom,RO,Romania,172
+ES,Spain,KY,Cayman Islands,4269.63
+CH,Switzerland,SY,Syria,1.268
+FR,France,GB,United Kingdom,254949
+TW,Chinese Taipei,DO,Dominican Republic,2
+SE,Sweden,BJ,Benin,17.888
+FR,France,DM,Dominica,18
+DE,Germany,SA,Saudi Arabia,4792
+GR,Greece,IM,Isle of Man,429
+ES,Spain,BZ,Belize,20.519
+DK,Denmark,UA,Ukraine,13
+GB,United Kingdom,HT,Haiti,7
+GR,Greece,GI,Gibraltar,2
+ES,Spain,CL,Chile,69026.333
+US,United States,GI,Gibraltar,66
+DK,Denmark,MK,North Macedonia,8
+CL,Chile,MX,Mexico,318.429
+GB,United Kingdom,1Z,West Indies UK,10144
+TW,Chinese Taipei,PA,Panama,4134
+TW,Chinese Taipei,MX,Mexico,931
+MX,Mexico,DE,Germany,908.04
+US,United States,GY,Guyana,2
+DK,Denmark,LU,Luxembourg,12912
+IT,Italy,AU,Australia,1752.406
+GR,Greece,JO,Jordan,4
+NL,Netherlands,CA,Canada,20303.446
+CH,Switzerland,HU,Hungary,398.522
+US,United States,IE,Ireland,97507
+AU,Australia,PT,Portugal,107.818
+GB,United Kingdom,HU,Hungary,753
+BE,Belgium,CH,Switzerland,1003
+BR,Brazil,GB,United Kingdom,14784
+IE,Ireland,DE,Germany,1549.805
+AU,Australia,GH,Ghana,3.802
+FI,Finland,IE,Ireland,570
+CH,Switzerland,SG,Singapore,42586.149
+ES,Spain,MD,Moldova,4.278
+ES,Spain,LR,Liberia,69.066
+US,United States,SK,Slovakia,1947
+TR,Turkey,SA,Saudi Arabia,72.451
+IE,Ireland,NO,Norway,1095.265
+BE,Belgium,BY,Belarus,82
+PT,Portugal,AU,Australia,74.946
+KR,South Korea,BH,Bahrain,630.801
+FR,France,MZ,Mozambique,497
+TR,Turkey,GR,Greece,60.724
+TR,Turkey,FR,France,519.463
+FR,France,PF,French Polynesia,4647
+FR,France,NO,Norway,17171
+ES,Spain,TZ,Tanzania,8.936
+ES,Spain,VC,St. Vincent and the Grenadines,4.051
+CH,Switzerland,KE,Kenya,774.879
+DK,Denmark,EE,Estonia,189
+GR,Greece,ES,Spain,3019
+GR,Greece,AU,Australia,39
+AU,Australia,IE,Ireland,5322.667
+AT,Austria,PG,Papua New Guinea,92.678
+AT,Austria,AZ,Azerbaijan,182.678
+AT,Austria,CU,Cuba,6.367
+FI,Finland,KR,South Korea,131
+DK,Denmark,NL,Netherlands,6967
+CH,Switzerland,AU,Australia,16444.657
+CH,Switzerland,LT,Lithuania,76.659
+BE,Belgium,KR,South Korea,126
+US,United States,IT,Italy,54246
+AU,Australia,AT,Austria,261.493
+DE,Germany,DK,Denmark,16185
+CA,Canada,1Z,West Indies UK,4079.153
+TW,Chinese Taipei,BH,Bahrain,186
+IE,Ireland,GB,United Kingdom,66788.75
+ES,Spain,DM,Dominica,1.873
+PT,Portugal,SK,Slovakia,56.158
+IT,Italy,SG,Singapore,2380.13
+FR,France,IN,India,23673
+GB,United Kingdom,KY,Cayman Islands,28950
+FR,France,TZ,Tanzania,305
+PT,Portugal,ES,Spain,18516.735
+CA,Canada,KE,Kenya,2.086
+TW,Chinese Taipei,TM,Turkmenistan,8
+PA,Panama,IT,Italy,2.473
+PT,Portugal,HK,Hong Kong SAR,563.029
+DK,Denmark,VN,Vietnam,12
+SE,Sweden,JO,Jordan,5.46
+CA,Canada,VE,Venezuela,41.722
+CH,Switzerland,NA,Namibia,11.726
+DK,Denmark,LV,Latvia,113
+CH,Switzerland,SE,Sweden,8421.522
+GB,United Kingdom,KZ,Kazakhstan,167
+DK,Denmark,HR,Croatia,22
+CA,Canada,BD,Bangladesh,26.505
+DK,Denmark,SN,Senegal,3
+JP,Japan,IM,Isle of Man,734.2
+BE,Belgium,BJ,Benin,96
+ES,Spain,AD,Andorra,790.455
+US,United States,MN,Mongolia,401
+CH,Switzerland,TM,Turkmenistan,32.059
+DK,Denmark,NO,Norway,45358
+FR,France,BE,Belgium,281783
+ES,Spain,KW,Kuwait,1340.21
+AT,Austria,MA,Morocco,8.734
+GB,United Kingdom,DZ,Algeria,568
+CH,Switzerland,HT,Haiti,7.144
+GR,Greece,SK,Slovakia,18
+US,United States,CO,Colombia,7490
+ES,Spain,TH,Thailand,13.335
+GB,United Kingdom,QA,Qatar,24202
+ES,Spain,ZA,South Africa,199.769
+GB,United Kingdom,NA,Namibia,5
+FR,France,ME,Montenegro,261
+KR,South Korea,RU,Russia,1432.05
+PT,Portugal,MZ,Mozambique,5086.3
+US,United States,BH,Bahrain,1848
+DE,Germany,KR,South Korea,10553
+TW,Chinese Taipei,KH,Cambodia,5432
+DK,Denmark,EC,Ecuador,5
+PA,Panama,AE,United Arab Emirates,11.307
+IT,Italy,LU,Luxembourg,30307.604
+PT,Portugal,BR,Brazil,1933.313
+SE,Sweden,PE,Peru,59.913
+AU,Australia,AR,Argentina,1.841
+ES,Spain,AE,United Arab Emirates,3826.851
+BR,Brazil,AU,Australia,388
+GR,Greece,MT,Malta,397
+AT,Austria,MO,Macao SAR,22.131
+GR,Greece,NZ,New Zealand,3
+DE,Germany,MY,Malaysia,2812
+GB,United Kingdom,CA,Canada,127398
+KR,South Korea,BG,Bulgaria,2.42
+US,United States,BG,Bulgaria,927
+IT,Italy,US,United States,50901.262
+TR,Turkey,DZ,Algeria,9.071
+KR,South Korea,TH,Thailand,310.665
+GB,United Kingdom,EC,Ecuador,12
+US,United States,DE,Germany,338381
+SE,Sweden,DK,Denmark,32836.852
+FR,France,VN,Vietnam,3552
+TW,Chinese Taipei,SA,Saudi Arabia,1173
+ES,Spain,MY,Malaysia,444.779
+ES,Spain,DO,Dominican Republic,688.388
+TR,Turkey,1Z,West Indies UK,1.532
+KR,South Korea,TW,Chinese Taipei,1390.734
+FR,France,UA,Ukraine,3286
+NL,Netherlands,CY,Cyprus,737.065
+PT,Portugal,SI,Slovenia,127.578
+CH,Switzerland,CA,Canada,22685.199
+BE,Belgium,HN,Honduras,4
+AU,Australia,IL,Israel,21.975
+CH,Switzerland,NZ,New Zealand,2607.391
+DK,Denmark,HU,Hungary,114
+CL,Chile,FR,France,379.209
+AU,Australia,VU,Vanuatu,233.462
+PA,Panama,NO,Norway,4.162
+AT,Austria,UA,Ukraine,3534.699
+TW,Chinese Taipei,BI,Burundi,13
+US,United States,JE,Jersey,13910
+DE,Germany,PE,Peru,1498
+PT,Portugal,ZA,South Africa,189.153
+SE,Sweden,KR,South Korea,117.288
+ES,Spain,MZ,Mozambique,33.426
+AT,Austria,GB,United Kingdom,12203.833
+JP,Japan,SN,Senegal,107.8
+JP,Japan,CL,Chile,6947
+FR,France,VE,Venezuela,901
+JP,Japan,IN,India,41862.1
+IT,Italy,LT,Lithuania,128.799
+IT,Italy,OM,Oman,725.707
+CA,Canada,BE,Belgium,2103.475
+FR,France,MD,Moldova,3
+KR,South Korea,PL,Poland,1373.479
+GB,United Kingdom,AW,Aruba,41
+US,United States,AW,Aruba,147
+BE,Belgium,DK,Denmark,1489
+GR,Greece,EG,Egypt,158
+AT,Austria,JP,Japan,468.737
+FR,France,SL,Sierra Leone,26
+BE,Belgium,MX,Mexico,199
+DK,Denmark,CA,Canada,403
+GB,United Kingdom,FJ,Fiji,18
+DK,Denmark,CY,Cyprus,263
+ES,Spain,SC,Seychelles,27.786
+IT,Italy,CA,Canada,2352.724
+BE,Belgium,PA,Panama,56
+BR,Brazil,SE,Sweden,188
+ES,Spain,AT,Austria,6797
+KR,South Korea,DK,Denmark,335.355
+TR,Turkey,JP,Japan,29.73
+KR,South Korea,NG,Nigeria,438.484
+NL,Netherlands,GR,Greece,2166.608
+PT,Portugal,BS,Bahamas,378.79
+SE,Sweden,BM,Bermuda,1884.809
+ES,Spain,HT,Haiti,3.221
+AT,Austria,BI,Burundi,25.055
+AT,Austria,BA,Bosnia and Herzegovina,4895.563
+JP,Japan,AZ,Azerbaijan,279.1
+GB,United Kingdom,NC,New Caledonia,4
+US,United States,PE,Peru,5011
+TW,Chinese Taipei,GT,Guatemala,4
+IE,Ireland,KY,Cayman Islands,1.844
+AU,Australia,CO,Colombia,37.055
+FR,France,BO,Bolivia,361
+CH,Switzerland,UG,Uganda,77.144
+FR,France,CI,Cote d'Ivoire,7419
+FI,Finland,CN,China,727
+CH,Switzerland,ZM,Zambia,82.997
+ES,Spain,PF,French Polynesia,1.826
+DK,Denmark,SE,Sweden,111223
+KR,South Korea,JP,Japan,18530.062
+DK,Denmark,CZ,Czech Republic,32
+BE,Belgium,SK,Slovakia,19941
+CH,Switzerland,MH,Marshall Islands,4086.208
+CH,Switzerland,ZW,Zimbabwe,26.855
+KR,South Korea,AE,United Arab Emirates,6124.484
+PT,Portugal,DK,Denmark,413.551
+ES,Spain,GQ,Equatorial Guinea,13.411
+ES,Spain,FI,Finland,5892.596
+BE,Belgium,FR,France,22365
+US,United States,CA,Canada,149925
+TR,Turkey,CH,Switzerland,281.551
+AU,Australia,TL,Timor Leste,39.907
+AT,Austria,CH,Switzerland,9609.167
+FR,France,SC,Seychelles,188
+TR,Turkey,KZ,Kazakhstan,60.373
+BE,Belgium,AZ,Azerbaijan,40
+AU,Australia,LI,Liechtenstein,1.447
+AT,Austria,UG,Uganda,2.275
+AU,Australia,JE,Jersey,193.834
+BE,Belgium,HK,Hong Kong SAR,406
+AU,Australia,VN,Vietnam,870.64
+IE,Ireland,GR,Greece,8.193
+FR,France,JP,Japan,240219
+CH,Switzerland,CN,China,41104.867
+CH,Switzerland,RO,Romania,348.881
+CH,Switzerland,DZ,Algeria,19.217
+NL,Netherlands,FI,Finland,9951.511
+TR,Turkey,AZ,Azerbaijan,100.837
+FR,France,GQ,Equatorial Guinea,320
+TW,Chinese Taipei,BS,Bahamas,75
+IT,Italy,NE,Niger,14.166
+FR,France,TJ,Tajikistan,4
+US,United States,KR,South Korea,97011
+BE,Belgium,PE,Peru,42
+CL,Chile,CA,Canada,47.432
+TR,Turkey,AL,Albania,242.755
+AU,Australia,SZ,Eswatini,1.241
+PA,Panama,KY,Cayman Islands,1547.721
+FR,France,AO,Angola,1217
+FR,France,BN,Brunei,123
+BE,Belgium,GA,Gabon,2
+CH,Switzerland,EC,Ecuador,380.784
+FR,France,LK,Sri Lanka,507
+IT,Italy,CN,China,5344.445
+AT,Austria,DK,Denmark,1037.406
+SE,Sweden,MA,Morocco,13.746
+JP,Japan,TT,Trinidad and Tobago,209.9
+KR,South Korea,ES,Spain,388.08
+KR,South Korea,SI,Slovenia,99.333
+JP,Japan,VE,Venezuela,51.5
+JP,Japan,GR,Greece,277.4
+US,United States,ZA,South Africa,12681
+DE,Germany,MX,Mexico,5371
+JP,Japan,FI,Finland,7751.2
+PT,Portugal,RU,Russia,113.75
+IT,Italy,NZ,New Zealand,219.209
+BE,Belgium,PT,Portugal,582
+BR,Brazil,PT,Portugal,156
+GR,Greece,PT,Portugal,517
+GB,United Kingdom,CO,Colombia,449
+TW,Chinese Taipei,ID,Indonesia,6993
+CL,Chile,AR,Argentina,26.197
+US,United States,NI,Nicaragua,35
+GR,Greece,BM,Bermuda,173
+AT,Austria,KW,Kuwait,4.897
+GB,United Kingdom,BR,Brazil,15707
+TW,Chinese Taipei,US,United States,70625
+FR,France,BY,Belarus,54
+GB,United Kingdom,MT,Malta,6586
+KR,South Korea,PA,Panama,3397.195
+AT,Austria,NL,Netherlands,9339.487
+PA,Panama,AU,Australia,23.782
+BR,Brazil,BM,Bermuda,39
+SE,Sweden,NL,Netherlands,12065.491
+SE,Sweden,CH,Switzerland,1851.363
+JP,Japan,CN,China,94759.9
+FI,Finland,NL,Netherlands,3251
+CA,Canada,HU,Hungary,22.5
+CA,Canada,GR,Greece,1.766
+US,United States,MX,Mexico,104549
+SE,Sweden,MX,Mexico,479.251
+GR,Greece,SA,Saudi Arabia,129
+BE,Belgium,IL,Israel,205
+AU,Australia,BR,Brazil,657.193
+ES,Spain,HR,Croatia,6.836
+AT,Austria,BY,Belarus,2032.251
+PT,Portugal,NA,Namibia,22.348
+PA,Panama,SE,Sweden,1.63
+FR,France,AD,Andorra,182
+IE,Ireland,JE,Jersey,378.53
+PT,Portugal,CH,Switzerland,2058.401
+BR,Brazil,MY,Malaysia,2
+US,United States,MM,Myanmar,2
+FR,France,KE,Kenya,1759
+ES,Spain,GN,Guinea,1.741
+TR,Turkey,MK,North Macedonia,232.228
+GB,United Kingdom,VC,St. Vincent and the Grenadines,4
+GB,United Kingdom,ZA,South Africa,10331
+ES,Spain,PY,Paraguay,1855.3
+ES,Spain,SK,Slovakia,416.504
+TR,Turkey,BA,Bosnia and Herzegovina,213.611
+FR,France,IQ,Iraq,531
+CH,Switzerland,MT,Malta,1790.567
+FR,France,SX,Sint Maarten,27
+AU,Australia,ZW,Zimbabwe,1.07
+CH,Switzerland,CO,Colombia,356.381
+CH,Switzerland,NC,New Caledonia,28.187
+FR,France,TM,Turkmenistan,24
+IE,Ireland,TH,Thailand,2.238
+GB,United Kingdom,TZ,Tanzania,961
+US,United States,LK,Sri Lanka,755
+IT,Italy,CO,Colombia,280.94
+JP,Japan,ET,Ethiopia,4.3
+DK,Denmark,GG,Guernsey,2312
+US,United States,VC,St. Vincent and the Grenadines,39
+IT,Italy,MU,Mauritius,310.763
+FR,France,AR,Argentina,1504
+IT,Italy,CZ,Czech Republic,24596.111
+GB,United Kingdom,LT,Lithuania,34
+CL,Chile,BS,Bahamas,50.342
+FR,France,BD,Bangladesh,440
+FI,Finland,AT,Austria,772
+IT,Italy,NC,New Caledonia,13.42
+AT,Austria,VN,Vietnam,231.538
+BR,Brazil,AT,Austria,252
+TW,Chinese Taipei,VU,Vanuatu,30
+US,United States,MA,Morocco,960
+BE,Belgium,SA,Saudi Arabia,43
+SE,Sweden,EG,Egypt,44.258
+JP,Japan,GG,Guernsey,2618.2
+IT,Italy,MK,North Macedonia,7.434
+JP,Japan,DE,Germany,117718.4
+US,United States,BS,Bahamas,7619
+US,United States,CD,Congo Democratic Republic,201
+JP,Japan,VN,Vietnam,15526
+JP,Japan,TW,Chinese Taipei,38056.4
+AT,Austria,MX,Mexico,52.137
+GB,United Kingdom,CN,China,218978
+AT,Austria,MD,Moldova,157.417
+GB,United Kingdom,CY,Cyprus,1013
+GR,Greece,CA,Canada,39
+AT,Austria,MN,Mongolia,20.715
+US,United States,CN,China,126612
+US,United States,IM,Isle of Man,1177
+PT,Portugal,GN,Guinea,3.215
+FR,France,TN,Tunisia,5928
+SE,Sweden,IQ,Iraq,85.361
+GR,Greece,IN,India,5
+PA,Panama,ID,Indonesia,1.499
+IE,Ireland,FI,Finland,535.493
+ES,Spain,VN,Vietnam,145.633
+BR,Brazil,HU,Hungary,8
+TW,Chinese Taipei,MO,Macao SAR,1256
+TW,Chinese Taipei,JE,Jersey,1788
+DE,Germany,GB,United Kingdom,258069
+ES,Spain,CZ,Czech Republic,301.462
+US,United States,TZ,Tanzania,354
+TW,Chinese Taipei,YE,Yemen,4
+ES,Spain,1Z,West Indies UK,2955.434
+GB,United Kingdom,PL,Poland,3332
+IT,Italy,EG,Egypt,8515.331
+PT,Portugal,TN,Tunisia,9.232
+SE,Sweden,UZ,Uzbekistan,85.562
+IT,Italy,SA,Saudi Arabia,990.584
+ES,Spain,KG,Kyrgyz Republic,3.349
+ES,Spain,BS,Bahamas,678.83
+TR,Turkey,IQ,Iraq,312.133
+BE,Belgium,SN,Senegal,7
+AU,Australia,TR,Turkey,3.813
+BR,Brazil,DE,Germany,899
+DK,Denmark,GI,Gibraltar,24
+CH,Switzerland,MU,Mauritius,954.345
+AT,Austria,CL,Chile,39.85
+AU,Australia,ES,Spain,606.539
+JP,Japan,HR,Croatia,287.4
+CH,Switzerland,AM,Armenia,33.629
+JP,Japan,LB,Lebanon,6.3
+GB,United Kingdom,VE,Venezuela,162
+NL,Netherlands,SE,Sweden,5267.087
+FR,France,SE,Sweden,35884
+ES,Spain,PH,Philippines,33.685
+AU,Australia,KR,South Korea,5432.468
+DK,Denmark,DE,Germany,45932
+IE,Ireland,IM,Isle of Man,358.582
+CH,Switzerland,LA,Laos,341.676
+GB,United Kingdom,DE,Germany,207229
+IT,Italy,RW,Rwanda,2.699
+BE,Belgium,IN,India,92
+BE,Belgium,BD,Bangladesh,26
+ES,Spain,KH,Cambodia,3.907
+SE,Sweden,GE,Georgia,3.456
+CH,Switzerland,AL,Albania,9.8
+GB,United Kingdom,MV,Maldives,509
+GR,Greece,AL,Albania,637
+CL,Chile,KR,South Korea,22.446
+BE,Belgium,UA,Ukraine,16
+SE,Sweden,CL,Chile,237.439
+ES,Spain,GT,Guatemala,153.221
+US,United States,NO,Norway,14953
+FR,France,NA,Namibia,65
+GB,United Kingdom,BT,Bhutan,3
+FR,France,HU,Hungary,3496
+NL,Netherlands,US,United States,260568.23
+IT,Italy,MV,Maldives,3.556
+CA,Canada,CN,China,20987.549
+NL,Netherlands,IT,Italy,25353.343
+CA,Canada,IT,Italy,614.101
+DK,Denmark,RO,Romania,17
+GR,Greece,MY,Malaysia,6
+CA,Canada,US,United States,1444615.479
+PT,Portugal,KZ,Kazakhstan,11.033
+AU,Australia,LR,Liberia,663.741
+IE,Ireland,JP,Japan,17.836
+TR,Turkey,PT,Portugal,1.167
+BE,Belgium,KE,Kenya,120
+PT,Portugal,TR,Turkey,219.019
+ES,Spain,GE,Georgia,3.364
+JP,Japan,MM,Myanmar,533.6
+TR,Turkey,BE,Belgium,72.663
+CH,Switzerland,RW,Rwanda,4.483
+CL,Chile,NL,Netherlands,34.308
+SE,Sweden,BE,Belgium,543.681
+DK,Denmark,LK,Sri Lanka,2
+IT,Italy,IL,Israel,1424.747
+GB,United Kingdom,MH,Marshall Islands,317
+PA,Panama,TR,Turkey,1.033
+FR,France,AT,Austria,14356
+CH,Switzerland,EG,Egypt,2814.879
+CA,Canada,AU,Australia,28328.637
+ES,Spain,BR,Brazil,153441.533
+DE,Germany,CH,Switzerland,68286
+CA,Canada,LU,Luxembourg,15015.155
+TR,Turkey,MA,Morocco,6.464
+IE,Ireland,PL,Poland,247.765
+FR,France,CN,China,49004
+CH,Switzerland,IE,Ireland,21731.96
+FR,France,KY,Cayman Islands,79274
+DK,Denmark,LI,Liechtenstein,270
+CH,Switzerland,PL,Poland,1591.605
+FR,France,NC,New Caledonia,9278
+AT,Austria,CI,Cote d'Ivoire,9.285
+CH,Switzerland,EE,Estonia,91.47
+BE,Belgium,CL,Chile,142
+JP,Japan,CR,Costa Rica,27.6
+AT,Austria,SE,Sweden,2103.972
+AT,Austria,MZ,Mozambique,7.341
+GR,Greece,CH,Switzerland,185
+JP,Japan,LK,Sri Lanka,165.4
+SE,Sweden,ES,Spain,1021.126
+DK,Denmark,US,United States,7898
+PT,Portugal,PL,Poland,25771.681
+CH,Switzerland,MV,Maldives,48.032
+JP,Japan,HK,Hong Kong SAR,79671.8
+CA,Canada,SE,Sweden,5573.207
+US,United States,SC,Seychelles,63
+TW,Chinese Taipei,KR,South Korea,11928
+GB,United Kingdom,PS,Palestinian Territory,5
+GB,United Kingdom,RU,Russia,4145
+IE,Ireland,CH,Switzerland,387.319
+IT,Italy,CG,Congo,38.688
+AU,Australia,NP,Nepal,3.574
+CH,Switzerland,KH,Cambodia,9.613
+NL,Netherlands,RO,Romania,12271.027
+FI,Finland,MX,Mexico,7
+US,United States,GB,United Kingdom,474857
+BE,Belgium,VN,Vietnam,36
+CL,Chile,KY,Cayman Islands,176.879
+SE,Sweden,NO,Norway,53895.705
+AU,Australia,KW,Kuwait,6.444
+AU,Australia,LK,Sri Lanka,22.713
+MX,Mexico,KY,Cayman Islands,1.512
+TR,Turkey,EG,Egypt,7.621
+DK,Denmark,SG,Singapore,149
+DE,Germany,PH,Philippines,1369
+IT,Italy,AM,Armenia,19.358
+TW,Chinese Taipei,CZ,Czech Republic,32
+AT,Austria,GG,Guernsey,208.308
+CA,Canada,AT,Austria,2319.76
+KR,South Korea,CH,Switzerland,1006.74
+GB,United Kingdom,VN,Vietnam,8937
+FR,France,IS,Iceland,44
+GB,United Kingdom,MU,Mauritius,3197
+ES,Spain,GR,Greece,402.744
+ES,Spain,GG,Guernsey,975.255
+PA,Panama,SG,Singapore,22.485
+SE,Sweden,AR,Argentina,51.426
+FR,France,AU,Australia,33241
+US,United States,MY,Malaysia,18369
+CH,Switzerland,TC,Turks and Caicos Islands,128.374
+GR,Greece,SC,Seychelles,28
+GB,United Kingdom,MK,North Macedonia,12
+IT,Italy,IE,Ireland,19125.919
+PT,Portugal,JP,Japan,132.809
+PA,Panama,PE,Peru,350.302
+BR,Brazil,PA,Panama,270
+TR,Turkey,SD,Sudan,9.15
+BE,Belgium,MD,Moldova,2
+AU,Australia,BS,Bahamas,687.072
+IE,Ireland,IN,India,3.456
+DK,Denmark,BE,Belgium,706
+PT,Portugal,GB,United Kingdom,2207.333
+SE,Sweden,HR,Croatia,2.124
+DK,Denmark,TH,Thailand,29
+TW,Chinese Taipei,BM,Bermuda,1818
+AT,Austria,GE,Georgia,58.573
+ES,Spain,UA,Ukraine,64.371
+PT,Portugal,HR,Croatia,60.093
+US,United States,HK,Hong Kong SAR,89236
+FR,France,MH,Marshall Islands,5464
+CH,Switzerland,PS,Palestinian Territory,22.784
+GB,United Kingdom,NZ,New Zealand,7695
+AU,Australia,UY,Uruguay,15.747
+DE,Germany,ES,Spain,79817
+FR,France,BG,Bulgaria,1343
+FR,France,UG,Uganda,470
+ES,Spain,BH,Bahrain,338.958
+IE,Ireland,MY,Malaysia,2.653
+FR,France,CM,Cameroon,3362
+IE,Ireland,AT,Austria,188.638
+AU,Australia,DK,Denmark,309.881
+IT,Italy,DE,Germany,229699.291
+DE,Germany,MO,Macao SAR,120
+GB,United Kingdom,RS,Serbia,19
+IT,Italy,PT,Portugal,7889.576
+SE,Sweden,CW,Curacao,6.089
+GB,United Kingdom,EE,Estonia,25
+ES,Spain,KZ,Kazakhstan,39.71
+GB,United Kingdom,GI,Gibraltar,1009
+AT,Austria,PK,Pakistan,28.887
+SE,Sweden,SG,Singapore,913.647
+AT,Austria,QA,Qatar,265.113
+DK,Denmark,ID,Indonesia,23
+US,United States,PH,Philippines,9325
+SE,Sweden,ET,Ethiopia,201.468
+US,United States,ES,Spain,35246
+BR,Brazil,CN,China,101
+CL,Chile,CH,Switzerland,47.81
+FR,France,DO,Dominican Republic,932
+TW,Chinese Taipei,CY,Cyprus,83
+JP,Japan,KE,Kenya,190.4
+TW,Chinese Taipei,NL,Netherlands,5260
+TR,Turkey,SC,Seychelles,3.411
+BR,Brazil,PE,Peru,455
+US,United States,MZ,Mozambique,3
+TW,Chinese Taipei,MY,Malaysia,5602
+DK,Denmark,IE,Ireland,6442
+CH,Switzerland,NG,Nigeria,1265.266
+TW,Chinese Taipei,CM,Cameroon,5
+AU,Australia,NO,Norway,1740.7
+CH,Switzerland,ID,Indonesia,3941.087
+IE,Ireland,LT,Lithuania,46.576
+ES,Spain,RO,Romania,3160.588
+CH,Switzerland,GG,Guernsey,9522.767
+FI,Finland,SK,Slovakia,53
+IE,Ireland,US,United States,7986.384
+AU,Australia,MN,Mongolia,146.869
+DK,Denmark,AR,Argentina,30
+BE,Belgium,LK,Sri Lanka,12
+ES,Spain,IR,Iran,13.762
+TR,Turkey,DE,Germany,2806.891
+CH,Switzerland,SR,Suriname,262.607
+GB,United Kingdom,ZW,Zimbabwe,135
+FR,France,KZ,Kazakhstan,461
+KR,South Korea,ID,Indonesia,10819.963
+GB,United Kingdom,GH,Ghana,2889
+ES,Spain,BG,Bulgaria,92.593
+IT,Italy,PE,Peru,255.52
+ES,Spain,AU,Australia,3071.194
+FR,France,BQ,"Bonaire, Sint Eustatius and Saba",28
+FR,France,CA,Canada,42424
+CH,Switzerland,GH,Ghana,319.515
+IE,Ireland,BS,Bahamas,40.368
+BR,Brazil,CZ,Czech Republic,16
+CA,Canada,VN,Vietnam,52.729
+GB,United Kingdom,FK,Falkland Islands,29
+DK,Denmark,AD,Andorra,2
+FI,Finland,DE,Germany,11378
+TW,Chinese Taipei,ZA,South Africa,327
+SE,Sweden,PY,Paraguay,1.949
+US,United States,PW,Palau,13
+CH,Switzerland,RU,Russia,3707.405
+BR,Brazil,CL,Chile,40554
+AT,Austria,FI,Finland,1712.175
+IE,Ireland,BE,Belgium,1616.838
+FI,Finland,ES,Spain,462
+DK,Denmark,SR,Suriname,15
+US,United States,EG,Egypt,9664
+AT,Austria,DO,Dominican Republic,2.886
+GR,Greece,CY,Cyprus,10223
+AT,Austria,PH,Philippines,119.747
+DK,Denmark,IS,Iceland,159
+TW,Chinese Taipei,LR,Liberia,2886
+TW,Chinese Taipei,MN,Mongolia,2
+BE,Belgium,SY,Syria,2
+US,United States,GA,Gabon,170
+PT,Portugal,SA,Saudi Arabia,52.073
+GB,United Kingdom,EG,Egypt,11733
+MX,Mexico,CH,Switzerland,13.634
+DE,Germany,NO,Norway,31869
+JP,Japan,IQ,Iraq,168.5
+GR,Greece,FI,Finland,162
+TW,Chinese Taipei,CL,Chile,879
+FR,France,CW,Curacao,18
+AU,Australia,MO,Macao SAR,92.345
+IE,Ireland,AU,Australia,929.763
+ES,Spain,SN,Senegal,34.077
+PA,Panama,CA,Canada,859.988
+AT,Austria,CW,Curacao,24.227
+CL,Chile,GB,United Kingdom,2842.693
+NL,Netherlands,ID,Indonesia,1872.34
+ES,Spain,ID,Indonesia,275.67
+US,United States,NP,Nepal,9
+GB,United Kingdom,OM,Oman,7450
+GR,Greece,UA,Ukraine,166
+US,United States,PG,Papua New Guinea,58
+GB,United Kingdom,NG,Nigeria,6957
+BE,Belgium,JP,Japan,1552
+IE,Ireland,LU,Luxembourg,1808.345
+CA,Canada,TC,Turks and Caicos Islands,738.815
+ES,Spain,IS,Iceland,79.687
+PT,Portugal,FI,Finland,343.855
+AU,Australia,CH,Switzerland,3726.196
+NL,Netherlands,SG,Singapore,25151.274
+FR,France,US,United States,537293
+FI,Finland,RO,Romania,3
+ES,Spain,SE,Sweden,7659.235
+CH,Switzerland,GT,Guatemala,193.638
+CH,Switzerland,PA,Panama,7162.035
+FR,France,ZW,Zimbabwe,7
+FR,France,LT,Lithuania,279
+FR,France,MG,Madagascar,964
+FR,France,MR,Mauritania,273
+AU,Australia,MY,Malaysia,2183.526
+GR,Greece,LR,Liberia,3675
+SE,Sweden,KY,Cayman Islands,5065.316
+AT,Austria,GR,Greece,285.088
+FI,Finland,LT,Lithuania,1539
+FR,France,VU,Vanuatu,6
+DK,Denmark,IT,Italy,518
+AU,Australia,WS,Samoa,141.111
+CH,Switzerland,CR,Costa Rica,380.891
+AU,Australia,FR,France,10502.538
+AU,Australia,JP,Japan,60061.875
+JP,Japan,DK,Denmark,27669
+CH,Switzerland,OM,Oman,615.902
+CH,Switzerland,IT,Italy,17992.267
+KR,South Korea,HU,Hungary,2687.838
+IE,Ireland,NZ,New Zealand,126.3
+ES,Spain,AW,Aruba,98.298
+FR,France,CY,Cyprus,1199
+ES,Spain,NA,Namibia,60.652
+JP,Japan,NL,Netherlands,92273.5
+IT,Italy,MM,Myanmar,5.323
+BE,Belgium,PY,Paraguay,5
+CH,Switzerland,UY,Uruguay,341.706
+NL,Netherlands,PL,Poland,49490.073
+ES,Spain,CA,Canada,5619.175
+AU,Australia,SL,Sierra Leone,10.604
+CA,Canada,GT,Guatemala,245.499
+GB,United Kingdom,ID,Indonesia,16547
+TW,Chinese Taipei,IL,Israel,47
+CL,Chile,AU,Australia,2.737
+SE,Sweden,QA,Qatar,392.874
+US,United States,PY,Paraguay,641
+TW,Chinese Taipei,LK,Sri Lanka,36
+PT,Portugal,NZ,New Zealand,3.015
+ES,Spain,LT,Lithuania,24.035
+FR,France,PK,Pakistan,644
+IT,Italy,CR,Costa Rica,26.485
+SE,Sweden,DO,Dominican Republic,7.061
+IE,Ireland,SI,Slovenia,196.683
+PT,Portugal,CL,Chile,66.142
+GB,United Kingdom,SG,Singapore,148856
+US,United States,SV,El Salvador,615
+KR,South Korea,FI,Finland,33.305
+CH,Switzerland,IS,Iceland,44.579
+FR,France,TC,Turks and Caicos Islands,20
+AT,Austria,KE,Kenya,13.253
+GR,Greece,PA,Panama,562
+CH,Switzerland,US,United States,540482.957
+BE,Belgium,KW,Kuwait,24
+FI,Finland,AU,Australia,522
+ES,Spain,FK,Falkland Islands,53.656
+DK,Denmark,PH,Philippines,5
+JP,Japan,NO,Norway,8669.4
+AT,Austria,MT,Malta,103.969
+ES,Spain,HU,Hungary,270.262
+BE,Belgium,HR,Croatia,11
+CL,Chile,IE,Ireland,15.01
+AU,Australia,JO,Jordan,3.652
+FR,France,GT,Guatemala,52
+CA,Canada,PH,Philippines,575.206
+CA,Canada,CY,Cyprus,86.039
+SE,Sweden,KW,Kuwait,100.079
+DE,Germany,TR,Turkey,14578
+PT,Portugal,IN,India,73.784
+AT,Austria,KZ,Kazakhstan,39.541
+TW,Chinese Taipei,SB,Solomon Islands,37
+GB,United Kingdom,AZ,Azerbaijan,143
+FR,France,1Z,West Indies UK,2845
+IT,Italy,UZ,Uzbekistan,66.813
+BR,Brazil,KY,Cayman Islands,9405
+GB,United Kingdom,LU,Luxembourg,36840
+PT,Portugal,LT,Lithuania,73.658
+SE,Sweden,MO,Macao SAR,2.828
+US,United States,KY,Cayman Islands,521359
+US,United States,ZW,Zimbabwe,147
+FR,France,KH,Cambodia,679
+GB,United Kingdom,UG,Uganda,1290
+ES,Spain,NZ,New Zealand,117.393
+NL,Netherlands,BS,Bahamas,89.138
+BE,Belgium,MN,Mongolia,4
+ES,Spain,CD,Congo Democratic Republic,1.779
+CH,Switzerland,FM,Micronesia,45.642
+FI,Finland,TH,Thailand,14
+GB,United Kingdom,SE,Sweden,15511
+KR,South Korea,SK,Slovakia,313.66
+AU,Australia,PF,French Polynesia,3.719
+IT,Italy,AZ,Azerbaijan,203.196
+FR,France,MT,Malta,992
+US,United States,BJ,Benin,6
+GR,Greece,1Z,West Indies UK,584
+US,United States,BW,Botswana,138
+IT,Italy,ML,Mali,16.429
+GB,United Kingdom,IE,Ireland,82814
+KR,South Korea,SA,Saudi Arabia,4112.944
+US,United States,HN,Honduras,944
+DE,Germany,QA,Qatar,4039
+US,United States,JM,Jamaica,327
+SE,Sweden,JP,Japan,1927.79
+GR,Greece,JP,Japan,25
+TW,Chinese Taipei,AO,Angola,5
+DK,Denmark,EG,Egypt,12
+CH,Switzerland,AW,Aruba,370.99
+PA,Panama,JE,Jersey,1.1
+GR,Greece,HK,Hong Kong SAR,27
+CA,Canada,CZ,Czech Republic,86.867
+AT,Austria,RO,Romania,37263.927
+AU,Australia,US,United States,97302.369
+AT,Austria,SN,Senegal,24.629
+BE,Belgium,QA,Qatar,393
+FR,France,GE,Georgia,598
+CH,Switzerland,AZ,Azerbaijan,227.681
+CH,Switzerland,BH,Bahrain,1963.967
+FI,Finland,HK,Hong Kong SAR,76
+DK,Denmark,BO,Bolivia,53
+FR,France,SO,Somalia,6
+ES,Spain,QA,Qatar,1541.314
+CH,Switzerland,ML,Mali,10.184
+US,United States,MO,Macao SAR,667
+GB,United Kingdom,ZM,Zambia,598
+NL,Netherlands,GG,Guernsey,973.625
+GB,United Kingdom,AL,Albania,16
+US,United States,CR,Costa Rica,1216
+JP,Japan,UA,Ukraine,99.4
+ES,Spain,UG,Uganda,1.138
+FR,France,PH,Philippines,2925
+TW,Chinese Taipei,NO,Norway,340
+GB,United Kingdom,CG,Congo,4
+FI,Finland,TN,Tunisia,6
+GB,United Kingdom,CR,Costa Rica,60
+TR,Turkey,GB,United Kingdom,2876.118
+PT,Portugal,US,United States,2648.822
+TW,Chinese Taipei,TR,Turkey,174
+AU,Australia,PG,Papua New Guinea,2510.79
+AU,Australia,AZ,Azerbaijan,1.029
+CA,Canada,MT,Malta,46.66
+US,United States,ZM,Zambia,284
+JP,Japan,AE,United Arab Emirates,11594.1
+FR,France,AF,Afghanistan,2
+GB,United Kingdom,LV,Latvia,82
+IT,Italy,JE,Jersey,921.202
+SE,Sweden,AD,Andorra,1.442
+FR,France,BF,Burkina Faso,1838
+CH,Switzerland,TN,Tunisia,98.181
+PA,Panama,QA,Qatar,9.106
+IE,Ireland,HK,Hong Kong SAR,19.749
+DK,Denmark,AT,Austria,915
+TW,Chinese Taipei,EC,Ecuador,3
+BE,Belgium,LR,Liberia,6
+AU,Australia,BH,Bahrain,18.661
+AT,Austria,HU,Hungary,26063.074
+US,United States,JO,Jordan,426
+SE,Sweden,KE,Kenya,26.509
+SE,Sweden,TR,Turkey,664.85
+US,United States,VN,Vietnam,4108
+JP,Japan,CO,Colombia,2129.8
+CH,Switzerland,NE,Niger,1.439
+PT,Portugal,UY,Uruguay,2.157
+KR,South Korea,PE,Peru,138.033
+GB,United Kingdom,BJ,Benin,4
+CH,Switzerland,DE,Germany,77025.187
+TR,Turkey,HK,Hong Kong SAR,9.187
+AU,Australia,IN,India,3709.426
+BE,Belgium,CV,Cape Verde,3
+FR,France,IR,Iran,48
+GB,United Kingdom,IT,Italy,21673
+AU,Australia,SB,Solomon Islands,166.829
+FI,Finland,VN,Vietnam,85
+GB,United Kingdom,UA,Ukraine,33
+FR,France,DZ,Algeria,6619
+KR,South Korea,GR,Greece,1402.034
+CH,Switzerland,WS,Samoa,990.449
+IE,Ireland,RU,Russia,1.225
+ES,Spain,MR,Mauritania,3.42
+CA,Canada,ID,Indonesia,208.19
+FR,France,RS,Serbia,2322
+ES,Spain,CN,China,6259.062
+BE,Belgium,CM,Cameroon,123
+AU,Australia,QA,Qatar,556.665
+ES,Spain,MH,Marshall Islands,132.486
+DE,Germany,BM,Bermuda,6147
+CH,Switzerland,CD,Congo Democratic Republic,25.485
+BE,Belgium,FI,Finland,1835
+PT,Portugal,CV,Cape Verde,1711.959
+TW,Chinese Taipei,PY,Paraguay,4
+FR,France,RO,Romania,16745
+DE,Germany,US,United States,403935
+TR,Turkey,HR,Croatia,33.843
+TW,Chinese Taipei,FM,Micronesia,44
+JP,Japan,CA,Canada,92926
+DE,Germany,KY,Cayman Islands,28460
+US,United States,VE,Venezuela,1101
+DK,Denmark,BR,Brazil,36
+TW,Chinese Taipei,PH,Philippines,4443
+AT,Austria,ME,Montenegro,1183.449
+PA,Panama,MX,Mexico,908.382
+MX,Mexico,LU,Luxembourg,242.756
+JP,Japan,PH,Philippines,12021.7
+BR,Brazil,LU,Luxembourg,1406
+BE,Belgium,MO,Macao SAR,4
+GB,United Kingdom,AM,Armenia,577
+DE,Germany,IN,India,22812
+AT,Austria,BB,Barbados,1.545
+JP,Japan,BE,Belgium,47141.1
+US,United States,AZ,Azerbaijan,149
+KR,South Korea,MX,Mexico,2324.732
+FR,France,AE,United Arab Emirates,18082
+US,United States,AM,Armenia,38
+ES,Spain,EC,Ecuador,770.986
+SE,Sweden,AT,Austria,872.906
+JP,Japan,TZ,Tanzania,70.7
+AT,Austria,TR,Turkey,756.325
+GB,United Kingdom,LB,Lebanon,348
+US,United States,LR,Liberia,3702
+GR,Greece,MH,Marshall Islands,4400
+BE,Belgium,MY,Malaysia,53
+BE,Belgium,NO,Norway,744
+NL,Netherlands,DE,Germany,215721.451
+IE,Ireland,SK,Slovakia,41.309
+ES,Spain,CO,Colombia,23796.663
+GB,United Kingdom,JE,Jersey,32631
+IT,Italy,LV,Latvia,1051.321
+IT,Italy,BT,Bhutan,10.225
+ES,Spain,MT,Malta,956.543
+GB,United Kingdom,SZ,Eswatini,4
+BR,Brazil,ID,Indonesia,4
+KR,South Korea,PT,Portugal,24.765
+AU,Australia,HR,Croatia,3.247
+SE,Sweden,BO,Bolivia,2.9
+PT,Portugal,LU,Luxembourg,2408.019
+FI,Finland,JP,Japan,159
+CH,Switzerland,TD,Chad,1.397
+TW,Chinese Taipei,IE,Ireland,825
+FR,France,SN,Senegal,5069
+FR,France,SD,Sudan,104
+DE,Germany,AR,Argentina,961
+FI,Finland,IN,India,69
+FR,France,GR,Greece,1309
+CH,Switzerland,LU,Luxembourg,68074.734
+US,United States,TW,Chinese Taipei,70091
+CH,Switzerland,BS,Bahamas,17152.338
+BE,Belgium,GB,United Kingdom,32273
+AU,Australia,IM,Isle of Man,84.297
+AU,Australia,TO,Tonga,81.925
+NL,Netherlands,MT,Malta,797.222
+CH,Switzerland,MK,North Macedonia,19.817
+CH,Switzerland,LV,Latvia,56.67
+NL,Netherlands,LU,Luxembourg,37445.284
+TW,Chinese Taipei,SC,Seychelles,828
+DK,Denmark,CR,Costa Rica,4
+GR,Greece,MX,Mexico,69
+AT,Austria,US,United States,10310.156
+FR,France,GG,Guernsey,3038
+SE,Sweden,CI,Cote d'Ivoire,110.481
+CH,Switzerland,BI,Burundi,8.198
+AT,Austria,BM,Bermuda,3.998
+PT,Portugal,MT,Malta,131.014
+DE,Germany,KW,Kuwait,1319
+KR,South Korea,NL,Netherlands,1090.153
+GB,United Kingdom,LA,Laos,8
+DE,Germany,JP,Japan,39909
+JP,Japan,BG,Bulgaria,51
+ES,Spain,DZ,Algeria,43.289
+AU,Australia,1Z,West Indies UK,837.973
+IE,Ireland,GG,Guernsey,91.79
+AU,Australia,AE,United Arab Emirates,2654.771
+AT,Austria,BD,Bangladesh,50.166
+US,United States,IN,India,67362
+PA,Panama,IE,Ireland,43.786
+GR,Greece,ME,Montenegro,16
+AT,Austria,KG,Kyrgyz Republic,1.664
+US,United States,KW,Kuwait,13312
+SE,Sweden,LR,Liberia,928.465
+AT,Austria,TN,Tunisia,33.967
+GR,Greece,AE,United Arab Emirates,49
+IT,Italy,TR,Turkey,6847.575
+GB,United Kingdom,BA,Bosnia and Herzegovina,3
+JP,Japan,SA,Saudi Arabia,22288
+JP,Japan,PK,Pakistan,58.8
+GB,United Kingdom,BS,Bahamas,3031
+AT,Austria,KY,Cayman Islands,626.034
+AT,Austria,IS,Iceland,3.512
+TW,Chinese Taipei,DE,Germany,2823
+AT,Austria,UZ,Uzbekistan,126.379
+GB,United Kingdom,ES,Spain,25021
+BR,Brazil,MT,Malta,5
+PA,Panama,PH,Philippines,31.467
+GB,United Kingdom,MW,Malawi,81
+SE,Sweden,PL,Poland,1545.579
+US,United States,PL,Poland,16588
+US,United States,BB,Barbados,670
+SE,Sweden,CZ,Czech Republic,11.767
+US,United States,CW,Curacao,661
+GB,United Kingdom,BW,Botswana,1167
+KR,South Korea,BM,Bermuda,572.543
+SE,Sweden,BF,Burkina Faso,13.079
+PT,Portugal,CA,Canada,163.488
+SE,Sweden,MG,Madagascar,7.294
+ES,Spain,MU,Mauritius,149.612
+IT,Italy,TW,Chinese Taipei,19.299
+IT,Italy,NL,Netherlands,19057.241
+DK,Denmark,SI,Slovenia,2
+DK,Denmark,BW,Botswana,7
+CH,Switzerland,IL,Israel,4496.525
+CH,Switzerland,LB,Lebanon,1109.867
+FR,France,SG,Singapore,42749
+IE,Ireland,SA,Saudi Arabia,1.917
+FR,France,CO,Colombia,3428
+DK,Denmark,OM,Oman,5
+GR,Greece,DE,Germany,4677
+FR,France,OM,Oman,4077
+AT,Austria,CM,Cameroon,17.517
+IT,Italy,CH,Switzerland,19039.483
+NL,Netherlands,JE,Jersey,4900.397
+TW,Chinese Taipei,KW,Kuwait,76
+CA,Canada,NZ,New Zealand,751.287
+CH,Switzerland,TT,Trinidad and Tobago,337.95
+AT,Austria,MK,North Macedonia,1517.655
+BE,Belgium,CY,Cyprus,127
+AU,Australia,CL,Chile,100.396
+BE,Belgium,PH,Philippines,12
+TR,Turkey,MT,Malta,332.81
+AT,Austria,GH,Ghana,175.059
+FR,France,UY,Uruguay,338
+JP,Japan,IT,Italy,53107.4
+IT,Italy,LI,Liechtenstein,86.062
+JP,Japan,SE,Sweden,14301.7
+SE,Sweden,1Z,West Indies UK,112.697
+PT,Portugal,HU,Hungary,66.408
+SE,Sweden,ZA,South Africa,83.549
+IT,Italy,TT,Trinidad and Tobago,129.647
+DE,Germany,CW,Curacao,97
+GB,United Kingdom,AO,Angola,804
+CA,Canada,BH,Bahrain,2.03
+SE,Sweden,BG,Bulgaria,2.983
+CL,Chile,US,United States,11804.754
+BR,Brazil,DK,Denmark,8
+ES,Spain,EG,Egypt,502.11
+ES,Spain,RU,Russia,943.098
+GB,United Kingdom,LI,Liechtenstein,244
+TW,Chinese Taipei,KY,Cayman Islands,18836
+FR,France,LU,Luxembourg,170949
+GB,United Kingdom,TC,Turks and Caicos Islands,27
+NL,Netherlands,PA,Panama,547.257
+AT,Austria,IT,Italy,5273.696
+IT,Italy,GA,Gabon,135.21
+DK,Denmark,IM,Isle of Man,108
+CH,Switzerland,NL,Netherlands,24560.768
+FR,France,IT,Italy,377162
+AU,Australia,IR,Iran,4.466
+CH,Switzerland,CI,Cote d'Ivoire,341.62
+DK,Denmark,SK,Slovakia,126
+ES,Spain,PL,Poland,61394.725
+CH,Switzerland,LC,St. Lucia,57.976
+FR,France,GI,Gibraltar,118
+TR,Turkey,QA,Qatar,5.21
+CH,Switzerland,MA,Morocco,181.887
+SE,Sweden,GH,Ghana,61.93
+AT,Austria,CZ,Czech Republic,96778.668
+PA,Panama,TW,Chinese Taipei,1.016
+JP,Japan,SG,Singapore,91578.2
+GR,Greece,DK,Denmark,67
+DK,Denmark,NZ,New Zealand,43
+AT,Austria,LT,Lithuania,389.625
+BE,Belgium,BF,Burkina Faso,2
+IT,Italy,BD,Bangladesh,50.472
+AU,Australia,NA,Namibia,1.005
+DE,Germany,BE,Belgium,28871
+BE,Belgium,MT,Malta,34
+BE,Belgium,AE,United Arab Emirates,358
+AU,Australia,MH,Marshall Islands,924.946
+DE,Germany,AE,United Arab Emirates,7236
+BR,Brazil,NO,Norway,4
+CH,Switzerland,GA,Gabon,27.166
+PA,Panama,SA,Saudi Arabia,9.164
+AT,Austria,BE,Belgium,2377.256
+ES,Spain,AM,Armenia,9.943
+FR,France,LV,Latvia,472
+SE,Sweden,BR,Brazil,2463.385
+GB,United Kingdom,MX,Mexico,33500
+GB,United Kingdom,NL,Netherlands,72434
+US,United States,PK,Pakistan,1087
+SE,Sweden,CM,Cameroon,4.28
+ES,Spain,IL,Israel,110.185
+GB,United Kingdom,PT,Portugal,1129
+IT,Italy,LK,Sri Lanka,133.906
+FR,France,BI,Burundi,14
+KR,South Korea,CY,Cyprus,2.165
+US,United States,MU,Mauritius,2254
+KR,South Korea,IL,Israel,34.876
+IT,Italy,NO,Norway,3665.999
+US,United States,KE,Kenya,1172
+JP,Japan,ID,Indonesia,57560.1
+IT,Italy,MA,Morocco,94.059
+FR,France,ID,Indonesia,7052
+BE,Belgium,CZ,Czech Republic,80192
+AU,Australia,SE,Sweden,1133.973
+AT,Austria,NZ,New Zealand,144.618
+CH,Switzerland,SA,Saudi Arabia,3117.437
+FR,France,MK,North Macedonia,7
+DK,Denmark,IL,Israel,6
+US,United States,BD,Bangladesh,1011
+JP,Japan,TH,Thailand,109704.8
+SE,Sweden,GG,Guernsey,6038.356
+CA,Canada,GI,Gibraltar,41.491
+JP,Japan,IS,Iceland,63
+FR,France,UZ,Uzbekistan,221
+ES,Spain,DE,Germany,81852.694
+US,United States,UA,Ukraine,1285
+CH,Switzerland,CG,Congo,41.976
+IE,Ireland,GI,Gibraltar,80.854
+US,United States,SZ,Eswatini,2
+ES,Spain,EE,Estonia,23.993
+DE,Germany,CY,Cyprus,2097
+DK,Denmark,1Z,West Indies UK,18
+IT,Italy,ES,Spain,84004.477
+IT,Italy,FR,France,78866.015
+PT,Portugal,GR,Greece,383.908
+FI,Finland,NZ,New Zealand,163
+DE,Germany,CA,Canada,44331
+GB,United Kingdom,DK,Denmark,5898
+TW,Chinese Taipei,SE,Sweden,719
+GB,United Kingdom,CH,Switzerland,70624
+SE,Sweden,MT,Malta,298.908
+AT,Austria,LU,Luxembourg,6146.766
+US,United States,MT,Malta,669
+CH,Switzerland,CV,Cape Verde,3.096
+AT,Austria,BR,Brazil,189.643
+US,United States,BM,Bermuda,20949
+PT,Portugal,PE,Peru,83.334
+ES,Spain,GH,Ghana,62.915
+GR,Greece,BY,Belarus,4
+BR,Brazil,NL,Netherlands,685
+SE,Sweden,EC,Ecuador,13.006
+NL,Netherlands,IE,Ireland,38873.356
+PA,Panama,RU,Russia,1.638
+IT,Italy,MX,Mexico,1991.361
+FR,France,CD,Congo Democratic Republic,27
+PA,Panama,CH,Switzerland,830.775
+US,United States,ET,Ethiopia,36
+DK,Denmark,ES,Spain,1050
+SE,Sweden,FI,Finland,47196.97
+CH,Switzerland,VA,Vatican City State,49.128
+GB,United Kingdom,MA,Morocco,504
+DK,Denmark,RU,Russia,28
+BE,Belgium,RO,Romania,221
+KR,South Korea,GG,Guernsey,25.566
+ES,Spain,IE,Ireland,28715.98
+JP,Japan,ZM,Zambia,2.1
+PT,Portugal,MW,Malawi,1.73
+SE,Sweden,CN,China,2918.902
+US,United States,CI,Cote d'Ivoire,506
+SE,Sweden,NZ,New Zealand,25.559
+FI,Finland,CH,Switzerland,1181
+JP,Japan,EC,Ecuador,94.8
+TW,Chinese Taipei,ZM,Zambia,20
+GR,Greece,CL,Chile,29
+TW,Chinese Taipei,JO,Jordan,4
+DK,Denmark,CI,Cote d'Ivoire,6
+GB,United Kingdom,TR,Turkey,14390
+TW,Chinese Taipei,TT,Trinidad and Tobago,3
+NL,Netherlands,DK,Denmark,4398.869
+TW,Chinese Taipei,BE,Belgium,367
+IT,Italy,MY,Malaysia,52.192
+IT,Italy,CV,Cape Verde,17.571
+PA,Panama,LU,Luxembourg,171.926
+NL,Netherlands,NG,Nigeria,438.796
+IT,Italy,BY,Belarus,192.756
+CA,Canada,IE,Ireland,48858.834
+CA,Canada,SG,Singapore,26515.346
+TR,Turkey,BH,Bahrain,620.974
+DK,Denmark,GR,Greece,8
+JP,Japan,ZA,South Africa,8208.9
+JP,Japan,EE,Estonia,7.6
+CH,Switzerland,ES,Spain,10035.741
+AT,Austria,CY,Cyprus,907.194
+CH,Switzerland,MW,Malawi,1.446
+CH,Switzerland,FR,France,66240.701
+BE,Belgium,EC,Ecuador,17
+US,United States,LT,Lithuania,106
+KR,South Korea,IE,Ireland,1401.575
+FR,France,TT,Trinidad and Tobago,4
+TR,Turkey,NE,Niger,25.748
+FR,France,SR,Suriname,43
+TW,Chinese Taipei,BN,Brunei,5
+AU,Australia,KY,Cayman Islands,20819.681
+FR,France,IE,Ireland,65699
+US,United States,UG,Uganda,325
+US,United States,VU,Vanuatu,2
+CH,Switzerland,PE,Peru,502.21
+ES,Spain,NG,Nigeria,98.788
+CH,Switzerland,PT,Portugal,2029.75
+KR,South Korea,IT,Italy,317.139
+ES,Spain,RS,Serbia,10.221
+TR,Turkey,PA,Panama,8.181
+PT,Portugal,CY,Cyprus,84.216
+FR,France,GY,Guyana,2
+NL,Netherlands,RU,Russia,5778.365
+CH,Switzerland,MN,Mongolia,74.457
+CL,Chile,CN,China,99.132
+BE,Belgium,SE,Sweden,787
+SE,Sweden,DZ,Algeria,2.447
+DK,Denmark,PL,Poland,1427
+AT,Austria,CA,Canada,1828.66
+GB,United Kingdom,MM,Myanmar,7
+GR,Greece,SE,Sweden,119
+PT,Portugal,PA,Panama,69.845
+BE,Belgium,GR,Greece,5
+ES,Spain,GI,Gibraltar,97.355
+GR,Greece,QA,Qatar,99
+FI,Finland,CA,Canada,3654
+DE,Germany,LU,Luxembourg,147876
+GB,United Kingdom,LY,Libya,45
+AU,Australia,BW,Botswana,1.287
+AT,Austria,CN,China,1013.523
+AU,Australia,BB,Barbados,1.414
+AT,Austria,ZA,South Africa,117.846
+IT,Italy,MD,Moldova,282.202
+IE,Ireland,AE,United Arab Emirates,21.78
+DE,Germany,MT,Malta,1446
+IT,Italy,MO,Macao SAR,38.894
+AT,Austria,LB,Lebanon,8.159
+GB,United Kingdom,CI,Cote d'Ivoire,429
+GR,Greece,PH,Philippines,12
+SE,Sweden,MH,Marshall Islands,1781.438
+AT,Austria,MH,Marshall Islands,27.088
+US,United States,NA,Namibia,14
+JP,Japan,HU,Hungary,1901.8
+TW,Chinese Taipei,IN,India,4542
+FR,France,AZ,Azerbaijan,1808
+US,United States,MH,Marshall Islands,3631
+PT,Portugal,NG,Nigeria,9.164
+US,United States,BZ,Belize,924
+US,United States,BN,Brunei,87
+SE,Sweden,CD,Congo Democratic Republic,55.576
+US,United States,CH,Switzerland,57803
+KR,South Korea,QA,Qatar,2140.098
+SE,Sweden,MU,Mauritius,1.951
+SE,Sweden,CY,Cyprus,164.182
+AT,Austria,MU,Mauritius,14.682
+JP,Japan,FR,France,210113
+JP,Japan,UY,Uruguay,811.4
+ES,Spain,PA,Panama,2339.585
+GB,United Kingdom,UY,Uruguay,1332
+FR,France,TR,Turkey,28612
+TR,Turkey,ME,Montenegro,43.976
+US,United States,WF,Wallis and Futuna,3
+NL,Netherlands,ES,Spain,49526.615
+TW,Chinese Taipei,AR,Argentina,2
+AU,Australia,TH,Thailand,1830.375
+DK,Denmark,FR,France,14138
+FR,France,BH,Bahrain,3317
+BE,Belgium,PK,Pakistan,2
+CH,Switzerland,NI,Nicaragua,8.584
+TW,Chinese Taipei,JP,Japan,35372
+FI,Finland,LV,Latvia,1018
+BE,Belgium,GG,Guernsey,78
+IE,Ireland,HR,Croatia,6.642
+ES,Spain,FR,France,87541.24
+IT,Italy,CU,Cuba,249.548
+IT,Italy,CI,Cote d'Ivoire,33.01
+DE,Germany,CL,Chile,2643
+NL,Netherlands,PT,Portugal,1945.706
+PT,Portugal,CN,China,361.918
+TW,Chinese Taipei,BD,Bangladesh,31
+FR,France,TD,Chad,581
+NL,Netherlands,FR,France,113077.35
+AU,Australia,KZ,Kazakhstan,2.307
+FR,France,JE,Jersey,5875
+CH,Switzerland,MX,Mexico,3462.205
+CH,Switzerland,DK,Denmark,6027.522
+FR,France,LA,Laos,111
+IE,Ireland,TR,Turkey,12.669
+NL,Netherlands,PE,Peru,732.45
+CA,Canada,IL,Israel,363.318
+TR,Turkey,BG,Bulgaria,109.552
+CA,Canada,HK,Hong Kong SAR,6460.771
+BE,Belgium,AT,Austria,1627
+FI,Finland,PL,Poland,250
+IE,Ireland,1Z,West Indies UK,7.625
+DE,Germany,AT,Austria,58859
+BE,Belgium,LT,Lithuania,290
+AU,Australia,MT,Malta,60.504
+TW,Chinese Taipei,GB,United Kingdom,11505
+GR,Greece,RO,Romania,6156
+MX,Mexico,HN,Honduras,94.936
+CA,Canada,RU,Russia,30.801
+BE,Belgium,TN,Tunisia,14
+CH,Switzerland,MM,Myanmar,1.084
+DK,Denmark,TR,Turkey,818
+CH,Switzerland,ST,Sao Tome and Principe,2.69
+CH,Switzerland,BJ,Benin,114.542
+JP,Japan,PT,Portugal,1598.6
+PA,Panama,BE,Belgium,76.957
+FR,France,BR,Brazil,24606
+CA,Canada,NG,Nigeria,7.077
+FR,France,MU,Mauritius,1534
+US,United States,QA,Qatar,8739
+SE,Sweden,CA,Canada,731.204
+US,United States,BY,Belarus,13
+SE,Sweden,RO,Romania,6.661
+KR,South Korea,PH,Philippines,1194.035
+GB,United Kingdom,PE,Peru,796
+SE,Sweden,NC,New Caledonia,4.321
+ES,Spain,UY,Uruguay,8186.118
+ES,Spain,JE,Jersey,2237.275
+DE,Germany,LT,Lithuania,1219
+GR,Greece,US,United States,1507
+US,United States,DK,Denmark,8833
+BR,Brazil,BS,Bahamas,8405
+IT,Italy,KW,Kuwait,696.222
+GB,United Kingdom,BN,Brunei,1186
+TW,Chinese Taipei,VC,St. Vincent and the Grenadines,84
+US,United States,NC,New Caledonia,2
+TW,Chinese Taipei,IM,Isle of Man,26
+AT,Austria,IE,Ireland,3895.748
+AU,Australia,PH,Philippines,1711.656
+DE,Germany,SG,Singapore,23940
+SE,Sweden,TW,Chinese Taipei,10.824
+JP,Japan,GA,Gabon,33
+BE,Belgium,CA,Canada,4438
+JP,Japan,US,United States,1799236.8
+SE,Sweden,HU,Hungary,67.202
+SE,Sweden,LU,Luxembourg,10824.288
+JP,Japan,BH,Bahrain,308.2
+AT,Austria,DZ,Algeria,16.36
+BE,Belgium,SG,Singapore,1080
+AT,Austria,TW,Chinese Taipei,65.836
+FR,France,AL,Albania,3
+FR,France,LB,Lebanon,494
+AT,Austria,RS,Serbia,9985.82
+GB,United Kingdom,US,United States,1028563
+ES,Spain,OM,Oman,312.694
+FR,France,EE,Estonia,37
+US,United States,HT,Haiti,173
+JP,Japan,KR,South Korea,43268.7
+CH,Switzerland,GI,Gibraltar,614.712
+AT,Austria,GT,Guatemala,1.683
+US,United States,TN,Tunisia,612
+SE,Sweden,AE,United Arab Emirates,505.216
+DK,Denmark,MT,Malta,132
+FR,France,RW,Rwanda,51
+DK,Denmark,AU,Australia,153
+JP,Japan,PL,Poland,6321.6
+IT,Italy,DK,Denmark,2027.735
+TR,Turkey,CM,Cameroon,175.837
+BE,Belgium,AR,Argentina,49
+BE,Belgium,TR,Turkey,446
+AU,Australia,KE,Kenya,3.986
+BE,Belgium,HU,Hungary,13543
+TW,Chinese Taipei,NP,Nepal,4
+ES,Spain,CR,Costa Rica,133.402
+FR,France,WF,Wallis and Futuna,75
+FI,Finland,LU,Luxembourg,3771
+GR,Greece,LT,Lithuania,10
+GB,United Kingdom,JM,Jamaica,130
+FR,France,RU,Russia,24546
+FR,France,CZ,Czech Republic,50854
+DK,Denmark,CH,Switzerland,2027
+TR,Turkey,CN,China,11.474
+DE,Germany,IR,Iran,10
+GB,United Kingdom,BM,Bermuda,7506
+GB,United Kingdom,BB,Barbados,104
+SE,Sweden,RS,Serbia,33.168
+US,United States,DM,Dominica,7
+US,United States,FI,Finland,8322
+TW,Chinese Taipei,PL,Poland,40
+ES,Spain,SG,Singapore,3643.636
+CA,Canada,EG,Egypt,6.652
+DE,Germany,AU,Australia,28856
+AU,Australia,RS,Serbia,3.243
+BE,Belgium,CO,Colombia,20
+IT,Italy,KR,South Korea,1374.783
+IE,Ireland,LV,Latvia,34.924
+JP,Japan,BM,Bermuda,27260.9
+AT,Austria,AU,Australia,695.311
+NL,Netherlands,IL,Israel,618.161
+ES,Spain,IT,Italy,103824.447
+GB,United Kingdom,PA,Panama,1297
+TR,Turkey,UA,Ukraine,1.247
+CH,Switzerland,UZ,Uzbekistan,670.757
+FR,France,BS,Bahamas,1448
+CH,Switzerland,TH,Thailand,3981.412
+ES,Spain,AZ,Azerbaijan,2.519
+IE,Ireland,BH,Bahrain,2.626
+US,United States,TM,Turkmenistan,238
+GB,United Kingdom,JO,Jordan,1086
+FR,France,WS,Samoa,116
+DK,Denmark,TN,Tunisia,5
+US,United States,AR,Argentina,7201
+GR,Greece,LU,Luxembourg,1474
+AU,Australia,GR,Greece,289.982
+IT,Italy,VA,Vatican City State,86.991
+GB,United Kingdom,BD,Bangladesh,12467
+DK,Denmark,JE,Jersey,21
+DK,Denmark,MU,Mauritius,12
+SE,Sweden,LT,Lithuania,25702.206
+PT,Portugal,GG,Guernsey,16.203
+TR,Turkey,PE,Peru,1.07
+TW,Chinese Taipei,BZ,Belize,491
+AT,Austria,EC,Ecuador,45.939
+GR,Greece,MK,North Macedonia,2037
+CH,Switzerland,SI,Slovenia,43.571
+US,United States,KZ,Kazakhstan,2772
+CH,Switzerland,BW,Botswana,19.065
+BR,Brazil,IL,Israel,3
+CH,Switzerland,BM,Bermuda,4114.88
+IT,Italy,GI,Gibraltar,4.725
+BE,Belgium,IS,Iceland,92
+SE,Sweden,TZ,Tanzania,36.496
+DE,Germany,FI,Finland,26610
+CA,Canada,TT,Trinidad and Tobago,8115.281
+DK,Denmark,AE,United Arab Emirates,172
+BE,Belgium,KY,Cayman Islands,783
+KR,South Korea,JE,Jersey,512.519
+TW,Chinese Taipei,CN,China,50340
+JP,Japan,LR,Liberia,2779.9
+TW,Chinese Taipei,EG,Egypt,143
+FI,Finland,SA,Saudi Arabia,25
+TW,Chinese Taipei,PK,Pakistan,37
+AU,Australia,NC,New Caledonia,19.693
+BE,Belgium,KZ,Kazakhstan,3
+PT,Portugal,LV,Latvia,88.301
+IT,Italy,JP,Japan,17753.167
+JP,Japan,NZ,New Zealand,10896.6
+AT,Austria,AR,Argentina,6.01
+US,United States,NZ,New Zealand,5461
+BE,Belgium,BG,Bulgaria,7307
+IE,Ireland,MT,Malta,126.085
+GB,United Kingdom,PU,US Pacific Islands,3
+CA,Canada,FR,France,36882.378
+KR,South Korea,MO,Macao SAR,253.674
+FR,France,PS,Palestinian Territory,21
+TR,Turkey,DJ,Djibouti,7.941
+CH,Switzerland,JM,Jamaica,28.3
+DK,Denmark,BG,Bulgaria,14
+CH,Switzerland,TG,Togo,13.466
+CH,Switzerland,LY,Libya,29.523
+CH,Switzerland,BA,Bosnia and Herzegovina,26.992
+AU,Australia,GB,United Kingdom,114093.569
+BE,Belgium,DZ,Algeria,4
+ES,Spain,TN,Tunisia,8.283
+CA,Canada,PL,Poland,184.021
+CA,Canada,BS,Bahamas,7347.823
+PT,Portugal,BM,Bermuda,1.301
+GR,Greece,ZA,South Africa,11
+BE,Belgium,CN,China,930
+AU,Australia,RO,Romania,1.769
+BR,Brazil,RU,Russia,2
+FR,France,NE,Niger,182
+TR,Turkey,GH,Ghana,82.529
+NL,Netherlands,CH,Switzerland,32832.872
+US,United States,IQ,Iraq,438
+PA,Panama,IL,Israel,2.122
+PA,Panama,ES,Spain,149.545
+IE,Ireland,PT,Portugal,1316.563
+DK,Denmark,BH,Bahrain,2
+CH,Switzerland,HK,Hong Kong SAR,53814.616
+FR,France,CF,Central African Republic,3
+FR,France,NG,Nigeria,1837
+TW,Chinese Taipei,HK,Hong Kong SAR,34543
+AT,Austria,PL,Poland,10364.038
+DE,Germany,HU,Hungary,5541
+CH,Switzerland,AO,Angola,51.211
+DK,Denmark,ME,Montenegro,3
+KR,South Korea,NO,Norway,251.959
+BR,Brazil,ES,Spain,1128
+US,United States,AO,Angola,162
+ES,Spain,LV,Latvia,10.77
+GR,Greece,FR,France,1769
+US,United States,GN,Guinea,4
+FI,Finland,HR,Croatia,2
+DK,Denmark,UY,Uruguay,14
+ES,Spain,MK,North Macedonia,23.288
+CH,Switzerland,SK,Slovakia,314.474
+ES,Spain,BA,Bosnia and Herzegovina,1.125
+SE,Sweden,IT,Italy,426.221
+TW,Chinese Taipei,CO,Colombia,20
+DE,Germany,RO,Romania,1871
+GB,United Kingdom,HN,Honduras,66
+GB,United Kingdom,FR,France,362466
+FR,France,GH,Ghana,2308
+TR,Turkey,RO,Romania,3.613
+SE,Sweden,TH,Thailand,104.06
+KR,South Korea,US,United States,49530.181
+KR,South Korea,KW,Kuwait,1228.304
+MX,Mexico,US,United States,3944.518
+IT,Italy,TH,Thailand,53.985
+MX,Mexico,ES,Spain,294.497
+PA,Panama,JP,Japan,116.208
+IT,Italy,SK,Slovakia,26930.364
+BR,Brazil,IT,Italy,216
+BE,Belgium,US,United States,12491
+IT,Italy,HK,Hong Kong SAR,1239.976
+IE,Ireland,CY,Cyprus,50.98
+PT,Portugal,SE,Sweden,155.984
+DK,Denmark,KR,South Korea,42
+AT,Austria,SI,Slovenia,6610.181
+TW,Chinese Taipei,MT,Malta,284
+GB,United Kingdom,IM,Isle of Man,4473
+US,United States,JP,Japan,426751
+CH,Switzerland,JE,Jersey,6690.083
+FR,France,EC,Ecuador,1027
+PA,Panama,DE,Germany,196.909
+CH,Switzerland,KM,Comoros,8.738
+US,United States,GE,Georgia,60
+FR,France,FM,Micronesia,7
+FR,France,PL,Poland,50124
+CH,Switzerland,TR,Turkey,6244.191
+TR,Turkey,SE,Sweden,4.99
+US,United States,RO,Romania,3005
+IT,Italy,HN,Honduras,71.336
+US,United States,SG,Singapore,105561
+CA,Canada,DE,Germany,23942.679
+TW,Chinese Taipei,FR,France,8663
+CH,Switzerland,BB,Barbados,185.531
+AU,Australia,FI,Finland,682.909
+DK,Denmark,BS,Bahamas,87
+BR,Brazil,TW,Chinese Taipei,11
+AU,Australia,PK,Pakistan,5.366
+BE,Belgium,MG,Madagascar,3
+NL,Netherlands,BM,Bermuda,12119.164
+KR,South Korea,CL,Chile,387.757
+ES,Spain,LB,Lebanon,8.211
+TR,Turkey,GE,Georgia,63.73
+BE,Belgium,BR,Brazil,30
+TR,Turkey,DK,Denmark,5.487
+PT,Portugal,AO,Angola,2414.786
+ES,Spain,US,United States,296681.266
+FR,France,NZ,New Zealand,1894
+FR,France,MV,Maldives,14
+TR,Turkey,ES,Spain,17.312
+BE,Belgium,CD,Congo Democratic Republic,10
+SE,Sweden,IS,Iceland,20.321
+US,United States,HR,Croatia,150
+IT,Italy,BB,Barbados,48.359
+FR,France,CR,Costa Rica,323
+ES,Spain,LU,Luxembourg,23902.514
+AT,Austria,SG,Singapore,541.318
+GB,United Kingdom,HK,Hong Kong SAR,509297
+GR,Greece,IR,Iran,3
+JP,Japan,AM,Armenia,6.3
+SE,Sweden,AU,Australia,343.174
+US,United States,SN,Senegal,167
+US,United States,SE,Sweden,22188
+KR,South Korea,MY,Malaysia,1473.106
+GB,United Kingdom,RW,Rwanda,56
+DE,Germany,GR,Greece,24052
+PT,Portugal,IS,Iceland,8.974
+DE,Germany,GG,Guernsey,7256
+AT,Austria,ID,Indonesia,237.386
+DE,Germany,PL,Poland,63661
+JP,Japan,LT,Lithuania,12.3
+GB,United Kingdom,GM,Gambia,97
+TW,Chinese Taipei,QA,Qatar,1367
+TW,Chinese Taipei,NR,Nauru,68
+GR,Greece,HU,Hungary,72
+AT,Austria,GI,Gibraltar,3.67
+AT,Austria,RU,Russia,15926.31
+GR,Greece,KR,South Korea,9
+GB,United Kingdom,IL,Israel,7313
+DK,Denmark,KW,Kuwait,4
+CL,Chile,NO,Norway,1.128
+BE,Belgium,UY,Uruguay,31
+DK,Denmark,LR,Liberia,196
+JP,Japan,MX,Mexico,20876.9
+DE,Germany,SE,Sweden,36210
+SE,Sweden,ID,Indonesia,46.661
+BE,Belgium,MU,Mauritius,10
+ES,Spain,NL,Netherlands,21843.709
+IT,Italy,ME,Montenegro,81.467
+GB,United Kingdom,IQ,Iraq,449
+AU,Australia,NZ,New Zealand,348228.756
+IT,Italy,BE,Belgium,8947.469
+TR,Turkey,AE,United Arab Emirates,111.772
+CL,Chile,BR,Brazil,790.124
+GB,United Kingdom,SA,Saudi Arabia,18918
+BR,Brazil,FR,France,1425
+CA,Canada,KR,South Korea,2539.674
+FR,France,BJ,Benin,677
+FR,France,MM,Myanmar,21
+KR,South Korea,SE,Sweden,179.054
+IT,Italy,CY,Cyprus,1127.293
+DE,Germany,EE,Estonia,347
+US,United States,MW,Malawi,54
+PT,Portugal,ID,Indonesia,45.045
+ES,Spain,CI,Cote d'Ivoire,1.717
+PT,Portugal,AT,Austria,249.317
+US,United States,BQ,"Bonaire, Sint Eustatius and Saba",2
+AU,Australia,BE,Belgium,956.381
+SE,Sweden,ZM,Zambia,109.969
+PT,Portugal,VE,Venezuela,36.481
+US,United States,WS,Samoa,242
+GR,Greece,PL,Poland,304
+JP,Japan,AR,Argentina,363.1
+CH,Switzerland,CY,Cyprus,5989.249
+TR,Turkey,CA,Canada,15.144
+AT,Austria,1Z,West Indies UK,218.026
+FR,France,KR,South Korea,27283
+BE,Belgium,LB,Lebanon,3
+DK,Denmark,MH,Marshall Islands,450
+AU,Australia,MK,North Macedonia,1.41
+BE,Belgium,BS,Bahamas,2
+JP,Japan,TM,Turkmenistan,361.3
+CH,Switzerland,GB,United Kingdom,183873.423
+CH,Switzerland,IM,Isle of Man,1605.384
+TW,Chinese Taipei,ES,Spain,505
+DK,Denmark,PA,Panama,5
+AU,Australia,BD,Bangladesh,3.761
+CH,Switzerland,TW,Chinese Taipei,12020.473
+CH,Switzerland,ME,Montenegro,334.434
+JP,Japan,PA,Panama,39286
+DE,Germany,TH,Thailand,2779
+US,United States,CY,Cyprus,2232
+KR,South Korea,LT,Lithuania,6.418
+MX,Mexico,GB,United Kingdom,48.078
+PA,Panama,AR,Argentina,214.661
+BR,Brazil,BE,Belgium,80
+DE,Germany,BR,Brazil,6421
+CH,Switzerland,JP,Japan,26871.677
+DE,Germany,RU,Russia,8962
+TR,Turkey,NL,Netherlands,1068.286
+JP,Japan,MY,Malaysia,24592.9
+KR,South Korea,IM,Isle of Man,6.296
+DK,Denmark,PY,Paraguay,2
+GB,United Kingdom,CM,Cameroon,497
+CH,Switzerland,VE,Venezuela,503.577
+US,United States,PS,Palestinian Territory,3
+AT,Austria,PT,Portugal,291.207
+TW,Chinese Taipei,LU,Luxembourg,1982
+AU,Australia,GG,Guernsey,880.808
+KR,South Korea,SG,Singapore,4127.964
+CH,Switzerland,BE,Belgium,6625.161
+CA,Canada,DK,Denmark,1414.962
+AU,Australia,SV,El Salvador,3.508
+TW,Chinese Taipei,AE,United Arab Emirates,4539
+BE,Belgium,RW,Rwanda,2
+JP,Japan,ES,Spain,46978.6
+BR,Brazil,FI,Finland,2
+BE,Belgium,EG,Egypt,99
+TR,Turkey,KW,Kuwait,4.907
+DK,Denmark,ZA,South Africa,531
+US,United States,GR,Greece,2356
+US,United States,LC,St. Lucia,55
+PT,Portugal,IE,Ireland,1954.756
+JP,Japan,EG,Egypt,1098.6
+AU,Australia,KI,Kiribati,17.198
+AT,Austria,HK,Hong Kong SAR,526.789
+DK,Denmark,JP,Japan,292
+GB,United Kingdom,ME,Montenegro,19
+FI,Finland,ZA,South Africa,7
+CH,Switzerland,NO,Norway,4970.798
+FR,France,JM,Jamaica,75
+AU,Australia,SG,Singapore,33394.48
+CH,Switzerland,CW,Curacao,456.238
+AU,Australia,IT,Italy,1186.406
+MX,Mexico,SG,Singapore,43.681
+CH,Switzerland,IN,India,3691.603
+AU,Australia,OM,Oman,13.028
+ES,Spain,GB,United Kingdom,485713.661
+JP,Japan,TR,Turkey,10028.1
+IT,Italy,IN,India,1506.07
+CL,Chile,QA,Qatar,89.992
+SE,Sweden,BH,Bahrain,7.61
+PT,Portugal,AR,Argentina,20.581
+KR,South Korea,CA,Canada,4667.578
+TR,Turkey,ZA,South Africa,1.547
+FR,France,KP,North Korea,17
+US,United States,MK,North Macedonia,7
+IT,Italy,KE,Kenya,636.679
+PT,Portugal,JE,Jersey,52.22
+GB,United Kingdom,LR,Liberia,253
+FI,Finland,BE,Belgium,1662
+SE,Sweden,AM,Armenia,23.703
+ES,Spain,ET,Ethiopia,8.413
+DE,Germany,BS,Bahamas,1347
+FR,France,SV,El Salvador,89
+AT,Austria,JE,Jersey,106.203
+CH,Switzerland,JO,Jordan,526.948
+DK,Denmark,PT,Portugal,289
+AU,Australia,LU,Luxembourg,3620.002
+IT,Italy,VN,Vietnam,114.088
+PT,Portugal,NL,Netherlands,2836.207
+GB,United Kingdom,AR,Argentina,4375
+TR,Turkey,ET,Ethiopia,212.005
+GR,Greece,BE,Belgium,476
+AT,Austria,ML,Mali,5.701
+GB,United Kingdom,CL,Chile,2638
+FR,France,PA,Panama,5468
+IT,Italy,SN,Senegal,60.789
+JP,Japan,OM,Oman,2951
+GR,Greece,KY,Cayman Islands,135
+FR,France,DJ,Djibouti,16
+PA,Panama,FR,France,46.373
+KR,South Korea,HK,Hong Kong SAR,11134.336
+US,United States,GT,Guatemala,1859
+DK,Denmark,FI,Finland,43421
+BE,Belgium,RU,Russia,61
+JP,Japan,CZ,Czech Republic,1527.9
+GB,United Kingdom,IN,India,67273
+ES,Spain,CH,Switzerland,10798.576
+IT,Italy,MG,Madagascar,23.604
+TR,Turkey,LU,Luxembourg,67.68
+PT,Portugal,MO,Macao SAR,5392.205
+AT,Austria,CO,Colombia,5.113
+US,United States,RU,Russia,12697
+AT,Austria,BT,Bhutan,21.701
+TW,Chinese Taipei,KZ,Kazakhstan,10
+US,United States,SR,Suriname,5
+CH,Switzerland,BD,Bangladesh,404.202
+IE,Ireland,CN,China,1.923
+IE,Ireland,CZ,Czech Republic,52.488
+ES,Spain,LI,Liechtenstein,48.684
+IT,Italy,CW,Curacao,2.487
+GB,United Kingdom,SK,Slovakia,281
+GB,United Kingdom,SB,Solomon Islands,38
+NL,Netherlands,CW,Curacao,541.752
+ES,Spain,MX,Mexico,188698.566
+KR,South Korea,FR,France,1527.168
+GB,United Kingdom,TH,Thailand,13129
+GB,United Kingdom,HR,Croatia,644
+TW,Chinese Taipei,TH,Thailand,3731
+IT,Italy,BO,Bolivia,17.214
+DE,Germany,SK,Slovakia,4523
+JP,Japan,SI,Slovenia,73.6
+KR,South Korea,CZ,Czech Republic,1015.652
+GB,United Kingdom,KE,Kenya,3564
+IT,Italy,LR,Liberia,371.522
+IE,Ireland,SE,Sweden,1583.301
+ES,Spain,BY,Belarus,67.53
+ES,Spain,CV,Cape Verde,115.48
+BE,Belgium,DE,Germany,9215
+JP,Japan,UZ,Uzbekistan,432.8
+KR,South Korea,RO,Romania,76.613
+AT,Austria,SA,Saudi Arabia,62.002
+DK,Denmark,LT,Lithuania,202
+TW,Chinese Taipei,IR,Iran,2
+AT,Austria,LI,Liechtenstein,264.098
+BR,Brazil,HK,Hong Kong SAR,118
+TR,Turkey,IT,Italy,171.21
+GR,Greece,LV,Latvia,20
+US,United States,LB,Lebanon,482
+US,United States,ID,Indonesia,14603
+SE,Sweden,ML,Mali,2.602
+US,United States,TR,Turkey,11575
+TW,Chinese Taipei,OM,Oman,213
+PT,Portugal,LI,Liechtenstein,3.541
+DE,Germany,ZA,South Africa,3479
+US,United States,AD,Andorra,5
+JP,Japan,BO,Bolivia,26.5
+IE,Ireland,HU,Hungary,1.814
+GR,Greece,NO,Norway,30
+DE,Germany,TW,Chinese Taipei,2296
+IT,Italy,IQ,Iraq,23.682
+ES,Spain,GA,Gabon,56.381
+TW,Chinese Taipei,RU,Russia,173
+GB,United Kingdom,BE,Belgium,7432
+FR,France,BA,Bosnia and Herzegovina,5
+DE,Germany,ID,Indonesia,7659
+GB,United Kingdom,WS,Samoa,35
+IT,Italy,AE,United Arab Emirates,3403.143
+FR,France,GA,Gabon,777
+BE,Belgium,LV,Latvia,125
+DK,Denmark,NG,Nigeria,4
+FR,France,PT,Portugal,24146
+FR,France,HN,Honduras,414
+GB,United Kingdom,BZ,Belize,35
+FR,France,SK,Slovakia,2460
+IE,Ireland,FR,France,6595.885
+AT,Austria,BH,Bahrain,116.679
+PT,Portugal,MX,Mexico,312.369
+CH,Switzerland,CM,Cameroon,5.065
+AT,Austria,BS,Bahamas,18.878
+ES,Spain,DJ,Djibouti,2.251
+AT,Austria,TG,Togo,7.439
+GB,United Kingdom,KR,South Korea,95015
+BE,Belgium,CG,Congo,49
+PT,Portugal,BE,Belgium,409.362
+ES,Spain,PT,Portugal,134769.01
+AU,Australia,KH,Cambodia,11.546
+DK,Denmark,DO,Dominican Republic,4
+JP,Japan,BR,Brazil,19139.7
+BE,Belgium,NG,Nigeria,32
+FR,France,ES,Spain,122465
+CH,Switzerland,LK,Sri Lanka,84.864
+GB,United Kingdom,TG,Togo,14
+ES,Spain,MA,Morocco,989.868
+FR,France,PE,Peru,1406
+CH,Switzerland,MO,Macao SAR,291.073
+IT,Italy,CL,Chile,624.783
+NL,Netherlands,MY,Malaysia,798.848
+GB,United Kingdom,SL,Sierra Leone,71
+CH,Switzerland,BY,Belarus,104.412
+BE,Belgium,GH,Ghana,167
+CH,Switzerland,BN,Brunei,130.695
+CH,Switzerland,MY,Malaysia,2768.382
+CA,Canada,SI,Slovenia,2.982
+PT,Portugal,CO,Colombia,108.723
+AU,Australia,TW,Chinese Taipei,6602.67
+TW,Chinese Taipei,1Z,West Indies UK,11998
+AU,Australia,HU,Hungary,37.531
+AT,Austria,IM,Isle of Man,48.86
+US,United States,IS,Iceland,348
+US,United States,KH,Cambodia,9
+SE,Sweden,VN,Vietnam,88.656
+PA,Panama,IN,India,1.8
+PA,Panama,KR,South Korea,5.026
+AT,Austria,TH,Thailand,98.603
+PT,Portugal,KR,South Korea,5.308
+SE,Sweden,UA,Ukraine,122.844
+FR,France,IL,Israel,2078
+US,United States,TC,Turks and Caicos Islands,56
+US,United States,AU,Australia,124784
+IT,Italy,TZ,Tanzania,17.704
+AU,Australia,ID,Indonesia,3607.808
+GB,United Kingdom,BF,Burkina Faso,27
+DE,Germany,JE,Jersey,11221
+DE,Germany,IE,Ireland,39576
+CH,Switzerland,CL,Chile,2108.938
+BR,Brazil,JP,Japan,306
+KR,South Korea,DE,Germany,4598.123
+GB,United Kingdom,JP,Japan,188175
+GB,United Kingdom,SV,El Salvador,74
+BE,Belgium,PL,Poland,2268
+ES,Spain,CU,Cuba,301.539
+TW,Chinese Taipei,SG,Singapore,14567
+BE,Belgium,NZ,New Zealand,197
+AT,Austria,LV,Latvia,389.33
+IT,Italy,KY,Cayman Islands,3306.913
+ES,Spain,DK,Denmark,5971.908
+JP,Japan,QA,Qatar,11229.7
+GB,United Kingdom,KW,Kuwait,3580
+MX,Mexico,VE,Venezuela,500
+IT,Italy,VE,Venezuela,69.089
+JP,Japan,AT,Austria,7895.3
+US,United States,BO,Bolivia,55
+JP,Japan,CH,Switzerland,33333.5
+JP,Japan,SK,Slovakia,272
+US,United States,AE,United Arab Emirates,24095
+JP,Japan,RO,Romania,355
+US,United States,BE,Belgium,27018
+GB,United Kingdom,AT,Austria,5236
+DK,Denmark,CL,Chile,8
+CH,Switzerland,LR,Liberia,3754.448
+PT,Portugal,CD,Congo Democratic Republic,1.135
+PT,Portugal,MA,Morocco,218.313
+US,United States,LU,Luxembourg,88636
+GB,United Kingdom,LK,Sri Lanka,4351
+GR,Greece,NL,Netherlands,509
+CH,Switzerland,BZ,Belize,861.942
+AT,Austria,BG,Bulgaria,6051.411
+NL,Netherlands,ZA,South Africa,1043.614
+TR,Turkey,US,United States,3271.686
+CH,Switzerland,BO,Bolivia,109.364
+CH,Switzerland,TZ,Tanzania,194.244
+CH,Switzerland,VC,St. Vincent and the Grenadines,152.017
+ES,Spain,NI,Nicaragua,41.396
+FR,France,SI,Slovenia,378
+DE,Germany,BG,Bulgaria,649
+CH,Switzerland,MD,Moldova,1.209
+GB,United Kingdom,TT,Trinidad and Tobago,81
+ES,Spain,MN,Mongolia,4.32
+FR,France,HK,Hong Kong SAR,36992
+US,United States,UY,Uruguay,1667
+CA,Canada,NL,Netherlands,9137.841
+BE,Belgium,EE,Estonia,25
+IE,Ireland,QA,Qatar,3.518
+CA,Canada,ES,Spain,2599.695
+NL,Netherlands,MX,Mexico,2667.32
+CA,Canada,GB,United Kingdom,199607.011
+CH,Switzerland,KW,Kuwait,1235.102
+FR,France,SA,Saudi Arabia,15020
+ES,Spain,BM,Bermuda,378.347
+BE,Belgium,OM,Oman,18
+AU,Australia,RU,Russia,2.315
+DE,Germany,CN,China,23253
+DK,Denmark,BM,Bermuda,802
+CA,Canada,BB,Barbados,4113.343
+FR,France,NL,Netherlands,108661
+FR,France,AM,Armenia,159
+FR,France,CH,Switzerland,88523
+CA,Canada,IM,Isle of Man,291.02
+NL,Netherlands,NO,Norway,8890.257
+TR,Turkey,MH,Marshall Islands,209.436
+FI,Finland,FR,France,6284
+DK,Denmark,KY,Cayman Islands,5943
+CH,Switzerland,PY,Paraguay,226.933
+AT,Austria,NG,Nigeria,24.648
+GR,Greece,CN,China,22
+JP,Japan,CI,Cote d'Ivoire,42.9
+CH,Switzerland,DM,Dominica,23.255
+CH,Switzerland,HR,Croatia,77.735
+AT,Austria,IL,Israel,117.849
+DK,Denmark,SA,Saudi Arabia,33
+FR,France,TW,Chinese Taipei,14133
+PT,Portugal,UA,Ukraine,29.704
+JP,Japan,LV,Latvia,45.1
+GR,Greece,JE,Jersey,17
+PA,Panama,NL,Netherlands,30.594
+MX,Mexico,PA,Panama,289.426
+BE,Belgium,JE,Jersey,33
+GB,United Kingdom,BO,Bolivia,3
+AT,Austria,TZ,Tanzania,8.073
+DE,Germany,IT,Italy,90475
+KR,South Korea,BE,Belgium,1131.722
+GB,United Kingdom,AE,United Arab Emirates,57734
+FR,France,LC,St. Lucia,4
+NL,Netherlands,IM,Isle of Man,612.025
+IE,Ireland,IT,Italy,540.983
+US,United States,LV,Latvia,851
+US,United States,AT,Austria,8540
+SE,Sweden,LV,Latvia,13313.359
+KR,South Korea,MT,Malta,153.095
+GB,United Kingdom,MN,Mongolia,183
+IT,Italy,ZA,South Africa,792.978
+TW,Chinese Taipei,PT,Portugal,44
+JP,Japan,LU,Luxembourg,169982.9
+BR,Brazil,AR,Argentina,2945
+CH,Switzerland,KR,South Korea,13921.591
+DE,Germany,BH,Bahrain,1731
+DK,Denmark,SC,Seychelles,11
+CH,Switzerland,ZA,South Africa,1129.572
+US,United States,PA,Panama,6351
+GB,United Kingdom,MO,Macao SAR,6708
+US,United States,SI,Slovenia,99
+IT,Italy,HR,Croatia,30317.328
+CA,Canada,CH,Switzerland,14533.864
+CL,Chile,LU,Luxembourg,25.507
+BE,Belgium,UZ,Uzbekistan,3
+BE,Belgium,IT,Italy,3699
+TR,Turkey,AT,Austria,152.203
+FR,France,IM,Isle of Man,885
+AU,Australia,LA,Laos,72.257
+DE,Germany,PA,Panama,1954
+BR,Brazil,ZA,South Africa,3
+PT,Portugal,CZ,Czech Republic,139.808
+US,United States,CM,Cameroon,203
+CH,Switzerland,AT,Austria,9148.519
+SE,Sweden,SK,Slovakia,5.156
+ES,Spain,MM,Myanmar,1.18
+TW,Chinese Taipei,AT,Austria,488
+PT,Portugal,RO,Romania,89.753
+PA,Panama,CN,China,63.538
+TW,Chinese Taipei,MH,Marshall Islands,1532
+SE,Sweden,JE,Jersey,2124.645
+FR,France,TG,Togo,896
+GR,Greece,IT,Italy,7288
+SE,Sweden,IE,Ireland,3312.636
+GR,Greece,ID,Indonesia,10
+US,United States,HU,Hungary,2638
+PA,Panama,HK,Hong Kong SAR,7.571
+TW,Chinese Taipei,AU,Australia,25326
+US,United States,UZ,Uzbekistan,232
+AT,Austria,SK,Slovakia,49853.459
+DK,Denmark,GB,United Kingdom,30219
+PT,Portugal,AE,United Arab Emirates,105.573
+CA,Canada,CI,Cote d'Ivoire,2.294
+ES,Spain,UZ,Uzbekistan,1.86
+AU,Australia,TZ,Tanzania,1.495
+TR,Turkey,AU,Australia,7.206
+KR,South Korea,CN,China,30874.466
+TR,Turkey,IE,Ireland,800.537
+DE,Germany,PT,Portugal,9712
+ES,Spain,PE,Peru,34550.165
+IT,Italy,AT,Austria,111913.381
+KR,South Korea,ZA,South Africa,94.929
+AU,Australia,BM,Bermuda,690.504
+DE,Germany,SI,Slovenia,2765
+GB,United Kingdom,UZ,Uzbekistan,4
+GB,United Kingdom,YE,Yemen,67
+BE,Belgium,LU,Luxembourg,5627
+BE,Belgium,MK,North Macedonia,2
+IT,Italy,SE,Sweden,2258.985
+CH,Switzerland,TJ,Tajikistan,1.997
+FR,France,BB,Barbados,94
+CH,Switzerland,DO,Dominican Republic,113.221
+GB,United Kingdom,AD,Andorra,4
+CH,Switzerland,SD,Sudan,9.514
+AT,Austria,AE,United Arab Emirates,400.188
+NL,Netherlands,GB,United Kingdom,110054.41
+GR,Greece,RS,Serbia,2372
+TR,Turkey,RU,Russia,189.986
+CH,Switzerland,SV,El Salvador,90.283
+FR,France,EG,Egypt,9006
+AU,Australia,NG,Nigeria,4.944
+PT,Portugal,DE,Germany,2965.567
+DE,Germany,LV,Latvia,1036
+PT,Portugal,MY,Malaysia,2.419
+GR,Greece,AT,Austria,242
+US,United States,CL,Chile,8168
+SE,Sweden,CR,Costa Rica,4.445
+CH,Switzerland,MZ,Mozambique,185.459
+IE,Ireland,ZA,South Africa,28.555
+NL,Netherlands,JP,Japan,13237.828
+US,United States,GH,Ghana,2153
+MX,Mexico,NL,Netherlands,10.433
+FR,France,NI,Nicaragua,83
+FR,France,TH,Thailand,2198
+GB,United Kingdom,GQ,Equatorial Guinea,30
+IT,Italy,MZ,Mozambique,50.873
+GR,Greece,IE,Ireland,4671
+JP,Japan,GB,United Kingdom,238497.2
+TW,Chinese Taipei,BF,Burkina Faso,15
+AU,Australia,ZA,South Africa,197.659
+BE,Belgium,GI,Gibraltar,4
+FI,Finland,GB,United Kingdom,4865
+BE,Belgium,ID,Indonesia,37
+ES,Spain,KR,South Korea,880.162
+CH,Switzerland,AR,Argentina,926.543
+CH,Switzerland,AD,Andorra,112.735
+FR,France,CU,Cuba,234
+GB,United Kingdom,GA,Gabon,165
+ES,Spain,BB,Barbados,210.781
+AU,Australia,PL,Poland,285.786
+TW,Chinese Taipei,VN,Vietnam,11339
+DE,Germany,CZ,Czech Republic,12751
+IE,Ireland,BM,Bermuda,1.377
+AU,Australia,FJ,Fiji,2033.761
+CH,Switzerland,ET,Ethiopia,106.485
+CH,Switzerland,GN,Guinea,1.217
+US,United States,RS,Serbia,359
+CH,Switzerland,PF,French Polynesia,67.287
+FI,Finland,DZ,Algeria,7
+CA,Canada,BM,Bermuda,1782.227
+FR,France,MX,Mexico,10106
+FR,France,BW,Botswana,98
+CA,Canada,JO,Jordan,95.851
+BR,Brazil,CA,Canada,483
+FR,France,YE,Yemen,97
+PT,Portugal,GI,Gibraltar,1.265
+BR,Brazil,MX,Mexico,375
+PT,Portugal,IT,Italy,11355.855
+US,United States,ML,Mali,4
+PT,Portugal,AD,Andorra,18.793
+FR,France,LY,Libya,2
+GB,United Kingdom,MY,Malaysia,36665
+ES,Spain,HK,Hong Kong SAR,6517.548
+KR,South Korea,AT,Austria,37.007
+CH,Switzerland,SC,Seychelles,1851.432
+NL,Netherlands,HK,Hong Kong SAR,14190.614
+FR,France,JO,Jordan,1481
+FR,France,VC,St. Vincent and the Grenadines,7
+ES,Spain,SI,Slovenia,40.726
+TW,Chinese Taipei,CA,Canada,4824
+GB,United Kingdom,FI,Finland,7630
+FR,France,DE,Germany,210207
+AU,Australia,MV,Maldives,1.904
+ES,Spain,AR,Argentina,18468.922
+TW,Chinese Taipei,DK,Denmark,320
+AU,Australia,BN,Brunei,82.894
+AU,Australia,CN,China,18303.961
+GR,Greece,EE,Estonia,3
+NL,Netherlands,AT,Austria,10716.165
+GB,United Kingdom,CW,Curacao,220
+GB,United Kingdom,PG,Papua New Guinea,179
+GR,Greece,RU,Russia,182
+GR,Greece,TR,Turkey,3
+AU,Australia,ZM,Zambia,2.109
+KR,South Korea,AR,Argentina,38.026
+CL,Chile,IT,Italy,5.804
+GR,Greece,BG,Bulgaria,6591
+FI,Finland,CZ,Czech Republic,19
+SE,Sweden,OM,Oman,46.711
+CH,Switzerland,NP,Nepal,10.78
+ES,Spain,JO,Jordan,13.599
+TW,Chinese Taipei,NZ,New Zealand,933
+AU,Australia,CY,Cyprus,69.76
+BE,Belgium,IE,Ireland,15322
+SE,Sweden,NG,Nigeria,12.306
+JP,Japan,KY,Cayman Islands,899794
+ES,Spain,BD,Bangladesh,184.842
+DK,Denmark,TW,Chinese Taipei,33
+PA,Panama,DK,Denmark,2.582
+US,United States,GG,Guernsey,11745
+IT,Italy,RO,Romania,14417.924
+JP,Japan,IE,Ireland,75968.3
+US,United States,DO,Dominican Republic,1320
+SE,Sweden,PT,Portugal,208.914
+TW,Chinese Taipei,LA,Laos,639
+SE,Sweden,DE,Germany,27614.915
+SE,Sweden,EE,Estonia,22432.53
+AT,Austria,PE,Peru,2.553
+AT,Austria,EE,Estonia,57.046
+BE,Belgium,SI,Slovenia,804
+JP,Japan,GE,Georgia,24.4
+AT,Austria,CR,Costa Rica,29.316
+DK,Denmark,HK,Hong Kong SAR,171
+PT,Portugal,NO,Norway,80.132
+PT,Portugal,GW,Guinea-Bissau,5.156
+JP,Japan,IL,Israel,4150.7
+GR,Greece,GB,United Kingdom,8425
+PT,Portugal,ST,Sao Tome and Principe,38.347
+ES,Spain,TR,Turkey,64821.096
+TW,Chinese Taipei,BR,Brazil,23
+AT,Austria,FR,France,13981.431
+DK,Denmark,IN,India,23
+FR,France,MA,Morocco,30107
+IT,Italy,FI,Finland,2087.338
+CH,Switzerland,PG,Papua New Guinea,117.703
+CL,Chile,ES,Spain,433.683
+ES,Spain,JM,Jamaica,112.116
+FR,France,BM,Bermuda,5959
+GB,United Kingdom,PF,French Polynesia,3
+NL,Netherlands,AR,Argentina,2025.141
+CA,Canada,JP,Japan,52777.874
+FI,Finland,PT,Portugal,135
+BE,Belgium,AU,Australia,1262
+BE,Belgium,BH,Bahrain,12
+AU,Australia,MU,Mauritius,26.957
+CH,Switzerland,GD,Grenada,105.124
+FR,France,MW,Malawi,2
+CH,Switzerland,HN,Honduras,49.489
+CH,Switzerland,QA,Qatar,8497.59
+FR,France,LI,Liechtenstein,117
+TR,Turkey,CG,Congo,69.32
+CH,Switzerland,FI,Finland,4824.494
+ES,Spain,SA,Saudi Arabia,617.764
+CH,Switzerland,GM,Gambia,5.66
+FR,France,ML,Mali,260
+PT,Portugal,FR,France,7161.154
+JP,Japan,KW,Kuwait,2236.1
+GB,United Kingdom,DO,Dominican Republic,5
+IT,Italy,QA,Qatar,8598.973
+TR,Turkey,RS,Serbia,394.607
+SE,Sweden,FR,France,3187.104
+AU,Australia,CA,Canada,12278.579
+AT,Austria,DE,Germany,54571.402
+SE,Sweden,PA,Panama,85.735
+BE,Belgium,TG,Togo,2
+IT,Italy,GN,Guinea,12.752
+ES,Spain,HN,Honduras,77.546
+PA,Panama,US,United States,9853.376
+GB,United Kingdom,MZ,Mozambique,135
+IT,Italy,GB,United Kingdom,53181.239
+ES,Spain,IM,Isle of Man,693.7
+KR,South Korea,KY,Cayman Islands,2362.116
+US,United States,NG,Nigeria,11084
+FR,France,CG,Congo,530
+GB,United Kingdom,NO,Norway,10809
+US,United States,OM,Oman,1041
+GR,Greece,SI,Slovenia,27
+ES,Spain,AO,Angola,1227.794
+DE,Germany,NG,Nigeria,1537
+PA,Panama,CL,Chile,760.294
+SE,Sweden,GI,Gibraltar,4.731
+GB,United Kingdom,ET,Ethiopia,171
+IT,Italy,PH,Philippines,428.431
+JP,Japan,JE,Jersey,23413
+PA,Panama,AT,Austria,1.19
+AT,Austria,EG,Egypt,38.09
+PT,Portugal,SG,Singapore,53.248
+TW,Chinese Taipei,MU,Mauritius,615
+AT,Austria,PA,Panama,14.163
+MX,Mexico,CR,Costa Rica,36.791
+AT,Austria,NI,Nicaragua,44.184
+KR,South Korea,TR,Turkey,2016.629
+MX,Mexico,FR,France,25.634
+US,United States,DZ,Algeria,1252
+US,United States,CZ,Czech Republic,4771
